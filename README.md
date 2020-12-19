@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roderik" alt="roderik" /> </p>
 
-- 🔭 I’m the founder and CTo of SettleMint and I'm working on the [SettleMint BPaaS](https://settlemint.com)
+- 🔭 I’m the founder and CTO of SettleMint and I'm working on the [SettleMint BPaaS](https://settlemint.com)
 
 - 💬 Ask me about **blockchain, devops, typescript**
 
