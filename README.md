@@ -31,7 +31,7 @@ I'm using the 2017 8-core 32gb iMac Pro with 2 Dell U2718Q 4k screens attached. 
 
 I've been automating my computer setups for years. I created [Kitchenplan (Chef based)](https://github.com/kitchenplan/kitchenplan) and [Superlimuc (Ansible based)](https://github.com/superlumic/superlumic) and used them for years to go from a clean install to operational in less than an hour. Recently I switched to [a pure ZSH dotfiles](https://github.com/roderik/dotfiles) setup. Not feature complete but currently 100% ARM native.
 
-For development I switch between VS Code Insiders and IntelliJ IDEA. I love the regular Terminal (fast,stable,already there) and I have a ctrl-ctrl hotkey defined in [Alfred](https://www.alfredapp.com) to show and hide it. 
+For development I switch between VS Code Insiders and IntelliJ IDEA. I love the regular Terminal (fast,stable,already there) and I have a [ctrl-ctrl hotkey](https://github.com/roderik/roderik) defined in [Alfred](https://www.alfredapp.com) to show and hide it. 
 
 
 
