@@ -25,7 +25,7 @@ Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's 
 
 #### Hardware
 
-I'm using the 2017 8-core 32gb iMac Pro with 2 Dell U2718Q 4k screens attached as my main driver. As a mobile driver I use a 13" 16GB Macbook Pro (M1 Apple Silicon) and i'm even using [Teleport](https://github.com/abyssoft/teleport) to control the iMAC from the Macbook. I use the Macbook in front with the keyboard and trackpad of the Macbook and above it the iMac with the two screens to either side. If at some point I clean up my desk i will add a picture 🤣
+I use a 13" 16GB Macbook Pro (M1 Apple Silicon) with 3 27" 4k Dell screens attached (using a Lenovo docking staging). My 2017 8-core 32gb iMac Pro serves as a build machine and to run things the M1 cannot do well at this point like Docker.
 
 #### Software
 
