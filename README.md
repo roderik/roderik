@@ -23,13 +23,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5531](https://github.com/pulumi/pulumi/issues/5531) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. ❗️ Opened issue [#6020](https://github.com/pulumi/pulumi/issues/6020) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🗣 Commented on [#4868](https://github.com/pulumi/pulumi/issues/4868) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. 🗣 Commented on [#463](https://github.com/jmcdo29/ogma/issues/463) in [jmcdo29/ogma](https://github.com/jmcdo29/ogma)
-5. 🗣 Commented on [#463](https://github.com/jmcdo29/ogma/issues/463) in [jmcdo29/ogma](https://github.com/jmcdo29/ogma)
+1. 🔥 Pushed to roderik/roderik
+2. 🔥 Pushed to roderik/roderik
+3. 🔥 Pushed to roderik/roderik
+4. 🔥 Pushed to roderik/roderik
+5. 🗣 Commented on [#473](https://github.com/jmcdo29/ogma/issues/473) in [jmcdo29/ogma](https://github.com/jmcdo29/ogma)
+6. 🔥 Pushed to roderik/roderik
+7. 🔥 Pushed to roderik/roderik
+8. 🗣 Commented on [#5531](https://github.com/pulumi/pulumi/issues/5531) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+9. 🔥 Pushed to settlemint/mintnet-authority-nodes
+10. 🔥 Pushed to settlemint/mintnet-authority-nodes
 <!--END_SECTION:activity-->
-
 
 ### /uses
 
