@@ -22,6 +22,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#5531](https://github.com/pulumi/pulumi/issues/5531) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. ❗️ Opened issue [#6020](https://github.com/pulumi/pulumi/issues/6020) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 🗣 Commented on [#4868](https://github.com/pulumi/pulumi/issues/4868) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 🗣 Commented on [#463](https://github.com/jmcdo29/ogma/issues/463) in [jmcdo29/ogma](https://github.com/jmcdo29/ogma)
+5. 🗣 Commented on [#463](https://github.com/jmcdo29/ogma/issues/463) in [jmcdo29/ogma](https://github.com/jmcdo29/ogma)
 <!--END_SECTION:activity-->
 
 ### /uses
