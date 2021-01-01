@@ -20,6 +20,7 @@
 - 📸 https://instagram.com/roderik
 
 ### Recent Github Activity
+<img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5531](https://github.com/pulumi/pulumi/issues/5531) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
@@ -29,7 +30,6 @@
 5. 🗣 Commented on [#463](https://github.com/jmcdo29/ogma/issues/463) in [jmcdo29/ogma](https://github.com/jmcdo29/ogma)
 <!--END_SECTION:activity-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" /></p>
 
 ### /uses
 
