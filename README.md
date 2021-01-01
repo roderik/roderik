@@ -19,6 +19,11 @@
 - 🙊 https://fb.com/roderik.van.der.veer
 - 📸 https://instagram.com/roderik
 
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### /uses
 
 Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's /uses pages!
