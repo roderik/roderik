@@ -19,7 +19,7 @@
 - 🙊 https://fb.com/roderik.van.der.veer
 - 📸 https://instagram.com/roderik
 
-### Recent Activity
+### Recent Github Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5531](https://github.com/pulumi/pulumi/issues/5531) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
@@ -29,9 +29,9 @@
 5. 🗣 Commented on [#463](https://github.com/jmcdo29/ogma/issues/463) in [jmcdo29/ogma](https://github.com/jmcdo29/ogma)
 <!--END_SECTION:activity-->
 
-### /uses
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" /></p>
 
-Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's /uses pages!
+### /uses
 
 #### Hardware
 
@@ -43,4 +43,3 @@ I've been automating my computer setups for years. I created [Kitchenplan (Chef 
 
 For development I switch between VS Code Insiders and IntelliJ IDEA. I love the regular Terminal (fast,stable,already there) and I have a [ctrl-ctrl hotkey](https://github.com/roderik/roderik) defined in [Alfred](https://www.alfredapp.com) to show and hide it. 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" /></p>
