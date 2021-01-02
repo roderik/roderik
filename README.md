@@ -23,18 +23,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1283](https://github.com/pulumi/pulumi-aws/issues/1283) in [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws)
-2. 🔥 Pushed to settlemint/bpaas-launchpad
-3. ❗️ Opened issue [#3352](https://github.com/settlemint/bpaas-launchpad/issues/3352) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-4. ❗️ Opened issue [#3351](https://github.com/settlemint/bpaas-launchpad/issues/3351) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-5. ❗️ Opened issue [#3350](https://github.com/settlemint/bpaas-launchpad/issues/3350) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-6. ❗️ Opened issue [#3349](https://github.com/settlemint/bpaas-launchpad/issues/3349) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-7. ❗️ Opened issue [#3348](https://github.com/settlemint/bpaas-launchpad/issues/3348) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-8. ❗️ Opened issue [#3347](https://github.com/settlemint/bpaas-launchpad/issues/3347) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-9. ❗️ Opened issue [#3346](https://github.com/settlemint/bpaas-launchpad/issues/3346) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-10. ❗️ Opened issue [#3345](https://github.com/settlemint/bpaas-launchpad/issues/3345) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+1. ❗️ Closed issue [#3044](https://github.com/settlemint/bpaas-launchpad/issues/3044) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+2. ❗️ Closed issue [#2929](https://github.com/settlemint/bpaas-launchpad/issues/2929) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+3. 🗣 Commented on [#2986](https://github.com/settlemint/bpaas-launchpad/issues/2986) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+4. 🗣 Commented on [#3060](https://github.com/settlemint/bpaas-launchpad/issues/3060) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+5. 🗣 Commented on [#3061](https://github.com/settlemint/bpaas-launchpad/issues/3061) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+6. ❗️ Closed issue [#3063](https://github.com/settlemint/bpaas-launchpad/issues/3063) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+7. ❗️ Closed issue [#3092](https://github.com/settlemint/bpaas-launchpad/issues/3092) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+8. ❗️ Closed issue [#3094](https://github.com/settlemint/bpaas-launchpad/issues/3094) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+9. ❗️ Closed issue [#3098](https://github.com/settlemint/bpaas-launchpad/issues/3098) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+10. ❗️ Closed issue [#3097](https://github.com/settlemint/bpaas-launchpad/issues/3097) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 <!--END_SECTION:activity-->
-
 #### Software
 
 I've been automating my computer setups for years. I created [Kitchenplan (Chef based)](https://github.com/kitchenplan/kitchenplan) and [Superlimuc (Ansible based)](https://github.com/superlumic/superlumic) and used them for years to go from a clean install to operational in less than an hour. Recently I switched to [a pure ZSH dotfiles](https://github.com/roderik/dotfiles) setup. Not feature complete but currently 100% ARM native.
