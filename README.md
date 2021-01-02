@@ -23,18 +23,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3352](https://github.com/settlemint/bpaas-launchpad/issues/3352) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-2. ❗️ Opened issue [#3351](https://github.com/settlemint/bpaas-launchpad/issues/3351) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-3. ❗️ Opened issue [#3350](https://github.com/settlemint/bpaas-launchpad/issues/3350) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-4. ❗️ Opened issue [#3349](https://github.com/settlemint/bpaas-launchpad/issues/3349) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-5. ❗️ Opened issue [#3348](https://github.com/settlemint/bpaas-launchpad/issues/3348) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-6. ❗️ Opened issue [#3347](https://github.com/settlemint/bpaas-launchpad/issues/3347) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-7. ❗️ Opened issue [#3346](https://github.com/settlemint/bpaas-launchpad/issues/3346) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-8. ❗️ Opened issue [#3345](https://github.com/settlemint/bpaas-launchpad/issues/3345) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-9. ❗️ Opened issue [#3344](https://github.com/settlemint/bpaas-launchpad/issues/3344) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-10. ❗️ Opened issue [#3343](https://github.com/settlemint/bpaas-launchpad/issues/3343) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+1. 🔥 Pushed to settlemint/bpaas-launchpad
+2. ❗️ Opened issue [#3352](https://github.com/settlemint/bpaas-launchpad/issues/3352) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+3. ❗️ Opened issue [#3351](https://github.com/settlemint/bpaas-launchpad/issues/3351) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+4. ❗️ Opened issue [#3350](https://github.com/settlemint/bpaas-launchpad/issues/3350) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+5. ❗️ Opened issue [#3349](https://github.com/settlemint/bpaas-launchpad/issues/3349) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+6. ❗️ Opened issue [#3348](https://github.com/settlemint/bpaas-launchpad/issues/3348) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+7. ❗️ Opened issue [#3347](https://github.com/settlemint/bpaas-launchpad/issues/3347) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+8. ❗️ Opened issue [#3346](https://github.com/settlemint/bpaas-launchpad/issues/3346) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+9. ❗️ Opened issue [#3345](https://github.com/settlemint/bpaas-launchpad/issues/3345) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+10. ❗️ Opened issue [#3344](https://github.com/settlemint/bpaas-launchpad/issues/3344) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 <!--END_SECTION:activity-->
-
 I use a 13" 16GB Macbook Pro (M1 Apple Silicon) with 3 27" 4k Dell screens attached (using a Lenovo docking staging). My 2017 8-core 32gb iMac Pro serves as a build machine and to run things the M1 cannot do well at this point like Docker.
 
 #### Software
