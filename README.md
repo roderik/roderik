@@ -24,17 +24,16 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-launchpad
-2. 🔥 Pushed to roderik/pulumi
-3. 💪 Opened PR [#6040](https://github.com/pulumi/pulumi/pull/6040) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. 🔥 Pushed to roderik/pulumi
-5. ❗️ Opened issue [#6039](https://github.com/pulumi/pulumi/issues/6039) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-6. 🔥 Pushed to roderik/roderik
+2. 🔥 Pushed to settlemint/bpaas-launchpad
+3. 🔥 Pushed to roderik/pulumi
+4. 💪 Opened PR [#6040](https://github.com/pulumi/pulumi/pull/6040) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. 🔥 Pushed to roderik/pulumi
+6. ❗️ Opened issue [#6039](https://github.com/pulumi/pulumi/issues/6039) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 7. 🔥 Pushed to roderik/roderik
 8. 🔥 Pushed to roderik/roderik
 9. 🔥 Pushed to roderik/roderik
-10. 🗣 Commented on [#473](https://github.com/jmcdo29/ogma/issues/473) in [jmcdo29/ogma](https://github.com/jmcdo29/ogma)
+10. 🔥 Pushed to roderik/roderik
 <!--END_SECTION:activity-->
-
 #### Hardware
 
 I use a 13" 16GB Macbook Pro (M1 Apple Silicon) with 3 27" 4k Dell screens attached (using a Lenovo docking staging). My 2017 8-core 32gb iMac Pro serves as a build machine and to run things the M1 cannot do well at this point like Docker.
