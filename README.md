@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6041](https://github.com/pulumi/pulumi/issues/6041) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. ❗️ Opened issue [#6041](https://github.com/pulumi/pulumi/issues/6041) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🔥 Pushed to settlemint/bpaas-launchpad
-4. ❗️ Opened issue [#3359](https://github.com/settlemint/bpaas-launchpad/issues/3359) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-5. ❗️ Opened issue [#3358](https://github.com/settlemint/bpaas-launchpad/issues/3358) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-6. ❗️ Closed issue [#3357](https://github.com/settlemint/bpaas-launchpad/issues/3357) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-7. ❗️ Closed issue [#3356](https://github.com/settlemint/bpaas-launchpad/issues/3356) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-8. ❗️ Opened issue [#3357](https://github.com/settlemint/bpaas-launchpad/issues/3357) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-9. ❗️ Opened issue [#3356](https://github.com/settlemint/bpaas-launchpad/issues/3356) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-10. ❗️ Closed issue [#6020](https://github.com/pulumi/pulumi/issues/6020) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 🔥 Pushed to settlemint/bpaas-launchpad
+2. ❗️ Opened issue [#6042](https://github.com/pulumi/pulumi/issues/6042) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 🗣 Commented on [#6041](https://github.com/pulumi/pulumi/issues/6041) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 🗣 Commented on [#6041](https://github.com/pulumi/pulumi/issues/6041) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. ❗️ Opened issue [#6041](https://github.com/pulumi/pulumi/issues/6041) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+6. 🔥 Pushed to settlemint/bpaas-launchpad
+7. ❗️ Opened issue [#3359](https://github.com/settlemint/bpaas-launchpad/issues/3359) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+8. ❗️ Opened issue [#3358](https://github.com/settlemint/bpaas-launchpad/issues/3358) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+9. ❗️ Closed issue [#3357](https://github.com/settlemint/bpaas-launchpad/issues/3357) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+10. ❗️ Closed issue [#3356](https://github.com/settlemint/bpaas-launchpad/issues/3356) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 <!--END_SECTION:activity-->
