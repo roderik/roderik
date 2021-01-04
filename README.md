@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3362](https://github.com/settlemint/bpaas-launchpad/issues/3362) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-2. ❌ Closed PR [#247](https://github.com/settlemint/bpaas-anchoring/pull/247) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
-3. ❌ Closed PR [#246](https://github.com/settlemint/bpaas-anchoring/pull/246) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
-4. ❌ Closed PR [#245](https://github.com/settlemint/bpaas-anchoring/pull/245) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
-5. ❌ Closed PR [#243](https://github.com/settlemint/bpaas-anchoring/pull/243) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
-6. ❌ Closed PR [#240](https://github.com/settlemint/bpaas-anchoring/pull/240) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
-7. ❌ Closed PR [#239](https://github.com/settlemint/bpaas-anchoring/pull/239) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
-8. ❌ Closed PR [#238](https://github.com/settlemint/bpaas-anchoring/pull/238) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
-9. ❌ Closed PR [#236](https://github.com/settlemint/bpaas-anchoring/pull/236) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
-10. ❌ Closed PR [#235](https://github.com/settlemint/bpaas-anchoring/pull/235) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
+1. ❗️ Opened issue [#3364](https://github.com/settlemint/bpaas-launchpad/issues/3364) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+2. ❗️ Opened issue [#3363](https://github.com/settlemint/bpaas-launchpad/issues/3363) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+3. 🗣 Commented on [#3362](https://github.com/settlemint/bpaas-launchpad/issues/3362) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+4. ❌ Closed PR [#247](https://github.com/settlemint/bpaas-anchoring/pull/247) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
+5. ❌ Closed PR [#246](https://github.com/settlemint/bpaas-anchoring/pull/246) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
+6. ❌ Closed PR [#245](https://github.com/settlemint/bpaas-anchoring/pull/245) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
+7. ❌ Closed PR [#243](https://github.com/settlemint/bpaas-anchoring/pull/243) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
+8. ❌ Closed PR [#240](https://github.com/settlemint/bpaas-anchoring/pull/240) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
+9. ❌ Closed PR [#239](https://github.com/settlemint/bpaas-anchoring/pull/239) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
+10. ❌ Closed PR [#238](https://github.com/settlemint/bpaas-anchoring/pull/238) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
 <!--END_SECTION:activity-->
