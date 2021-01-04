@@ -24,13 +24,13 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-launchpad
-2. 🔥 Pushed to settlemint/bpaas-launchpad
-3. 🎉 Merged PR [#3415](https://github.com/settlemint/bpaas-launchpad/pull/3415) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+2. 🎉 Merged PR [#3310](https://github.com/settlemint/bpaas-launchpad/pull/3310) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+3. 🔥 Pushed to settlemint/bpaas-launchpad
 4. 🔥 Pushed to settlemint/bpaas-launchpad
 5. 🔥 Pushed to settlemint/bpaas-launchpad
-6. 🎉 Merged PR [#3126](https://github.com/settlemint/bpaas-launchpad/pull/3126) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-7. ❗️ Closed issue [#3102](https://github.com/settlemint/bpaas-launchpad/issues/3102) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-8. ❗️ Closed issue [#3096](https://github.com/settlemint/bpaas-launchpad/issues/3096) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+6. 🔥 Pushed to settlemint/bpaas-launchpad
+7. 🔥 Pushed to settlemint/bpaas-launchpad
+8. 🎉 Merged PR [#3415](https://github.com/settlemint/bpaas-launchpad/pull/3415) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 9. 🔥 Pushed to settlemint/bpaas-launchpad
-10. 🗣 Commented on [#6041](https://github.com/pulumi/pulumi/issues/6041) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+10. 🔥 Pushed to settlemint/bpaas-launchpad
 <!--END_SECTION:activity-->
