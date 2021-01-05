@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-launchpad
-2. 🎉 Merged PR [#3470](https://github.com/settlemint/bpaas-launchpad/pull/3470) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-3. 🗣 Commented on [#87](https://github.com/johndbritton/teleport/issues/87) in [johndbritton/teleport](https://github.com/johndbritton/teleport)
-4. ❗️ Opened issue [#87](https://github.com/johndbritton/teleport/issues/87) in [johndbritton/teleport](https://github.com/johndbritton/teleport)
-5. 🗣 Commented on [#3434](https://github.com/settlemint/bpaas-launchpad/issues/3434) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-6. ❗️ Opened issue [#3469](https://github.com/settlemint/bpaas-launchpad/issues/3469) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-7. ❗️ Opened issue [#3468](https://github.com/settlemint/bpaas-launchpad/issues/3468) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-8. 🗣 Commented on [#3434](https://github.com/settlemint/bpaas-launchpad/issues/3434) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-9. ❗️ Opened issue [#3467](https://github.com/settlemint/bpaas-launchpad/issues/3467) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-10. ❗️ Opened issue [#3466](https://github.com/settlemint/bpaas-launchpad/issues/3466) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+1. 💪 Opened PR [#7](https://github.com/pulumi/automation-api-examples/pull/7) in [pulumi/automation-api-examples](https://github.com/pulumi/automation-api-examples)
+2. 🔥 Pushed to roderik/automation-api-examples
+3. 🗣 Commented on [#6](https://github.com/pulumi/automation-api-examples/issues/6) in [pulumi/automation-api-examples](https://github.com/pulumi/automation-api-examples)
+4. 🗣 Commented on [#6](https://github.com/pulumi/automation-api-examples/issues/6) in [pulumi/automation-api-examples](https://github.com/pulumi/automation-api-examples)
+5. 💪 Opened PR [#6](https://github.com/pulumi/automation-api-examples/pull/6) in [pulumi/automation-api-examples](https://github.com/pulumi/automation-api-examples)
+6. 💪 Opened PR [#5](https://github.com/pulumi/automation-api-examples/pull/5) in [pulumi/automation-api-examples](https://github.com/pulumi/automation-api-examples)
+7. 🔥 Pushed to settlemint/bpaas-launchpad
+8. 🎉 Merged PR [#3470](https://github.com/settlemint/bpaas-launchpad/pull/3470) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+9. 🗣 Commented on [#87](https://github.com/johndbritton/teleport/issues/87) in [johndbritton/teleport](https://github.com/johndbritton/teleport)
+10. ❗️ Opened issue [#87](https://github.com/johndbritton/teleport/issues/87) in [johndbritton/teleport](https://github.com/johndbritton/teleport)
 <!--END_SECTION:activity-->
