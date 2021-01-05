@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6042](https://github.com/pulumi/pulumi/issues/6042) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🔥 Pushed to settlemint/bpaas-launchpad
-3. 🎉 Merged PR [#3310](https://github.com/settlemint/bpaas-launchpad/pull/3310) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-4. 🔥 Pushed to settlemint/bpaas-launchpad
-5. 🔥 Pushed to settlemint/bpaas-launchpad
-6. 🔥 Pushed to settlemint/bpaas-launchpad
-7. 🔥 Pushed to settlemint/bpaas-launchpad
-8. 🔥 Pushed to settlemint/bpaas-launchpad
-9. 🎉 Merged PR [#3415](https://github.com/settlemint/bpaas-launchpad/pull/3415) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+1. ❗️ Opened issue [#3429](https://github.com/settlemint/bpaas-launchpad/issues/3429) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+2. ❗️ Opened issue [#3428](https://github.com/settlemint/bpaas-launchpad/issues/3428) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+3. ❗️ Opened issue [#3427](https://github.com/settlemint/bpaas-launchpad/issues/3427) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+4. ❗️ Opened issue [#3426](https://github.com/settlemint/bpaas-launchpad/issues/3426) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+5. ❗️ Opened issue [#3425](https://github.com/settlemint/bpaas-launchpad/issues/3425) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+6. ❗️ Opened issue [#3424](https://github.com/settlemint/bpaas-launchpad/issues/3424) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+7. ❗️ Opened issue [#3423](https://github.com/settlemint/bpaas-launchpad/issues/3423) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+8. ❗️ Opened issue [#3422](https://github.com/settlemint/bpaas-launchpad/issues/3422) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+9. 🗣 Commented on [#6042](https://github.com/pulumi/pulumi/issues/6042) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 10. 🔥 Pushed to settlemint/bpaas-launchpad
 <!--END_SECTION:activity-->
