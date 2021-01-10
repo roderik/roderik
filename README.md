@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/certimint
-2. 🔥 Pushed to settlemint/certimint
+1. ❗️ Opened issue [#3548](https://github.com/settlemint/bpaas-launchpad/issues/3548) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+2. ❗️ Opened issue [#3547](https://github.com/settlemint/bpaas-launchpad/issues/3547) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 3. 🔥 Pushed to settlemint/certimint
 4. 🔥 Pushed to settlemint/certimint
-5. 🗣 Commented on [#12](https://github.com/settlemint/certimint-validate/issues/12) in [settlemint/certimint-validate](https://github.com/settlemint/certimint-validate)
-6. 🗣 Commented on [#11](https://github.com/settlemint/certimint-validate/issues/11) in [settlemint/certimint-validate](https://github.com/settlemint/certimint-validate)
-7. 🔥 Pushed to settlemint/certimint-validate
-8. 🗣 Commented on [#64](https://github.com/johndbritton/teleport/issues/64) in [johndbritton/teleport](https://github.com/johndbritton/teleport)
-9. 🗣 Commented on [#62](https://github.com/johndbritton/teleport/issues/62) in [johndbritton/teleport](https://github.com/johndbritton/teleport)
+5. 🔥 Pushed to settlemint/certimint
+6. 🔥 Pushed to settlemint/certimint
+7. 🗣 Commented on [#12](https://github.com/settlemint/certimint-validate/issues/12) in [settlemint/certimint-validate](https://github.com/settlemint/certimint-validate)
+8. 🗣 Commented on [#11](https://github.com/settlemint/certimint-validate/issues/11) in [settlemint/certimint-validate](https://github.com/settlemint/certimint-validate)
+9. 🔥 Pushed to settlemint/certimint-validate
 10. 🗣 Commented on [#64](https://github.com/johndbritton/teleport/issues/64) in [johndbritton/teleport](https://github.com/johndbritton/teleport)
 <!--END_SECTION:activity-->
