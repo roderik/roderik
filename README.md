@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3434](https://github.com/settlemint/bpaas-launchpad/issues/3434) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-2. ❗️ Opened issue [#3548](https://github.com/settlemint/bpaas-launchpad/issues/3548) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-3. ❗️ Opened issue [#3547](https://github.com/settlemint/bpaas-launchpad/issues/3547) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-4. 🔥 Pushed to settlemint/certimint
-5. 🔥 Pushed to settlemint/certimint
-6. 🔥 Pushed to settlemint/certimint
-7. 🔥 Pushed to settlemint/certimint
-8. 🗣 Commented on [#12](https://github.com/settlemint/certimint-validate/issues/12) in [settlemint/certimint-validate](https://github.com/settlemint/certimint-validate)
-9. 🗣 Commented on [#11](https://github.com/settlemint/certimint-validate/issues/11) in [settlemint/certimint-validate](https://github.com/settlemint/certimint-validate)
-10. 🔥 Pushed to settlemint/certimint-validate
+1. ❗️ Opened issue [#3556](https://github.com/settlemint/bpaas-launchpad/issues/3556) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+2. ❗️ Opened issue [#3555](https://github.com/settlemint/bpaas-launchpad/issues/3555) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+3. 🗣 Commented on [#3434](https://github.com/settlemint/bpaas-launchpad/issues/3434) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+4. ❗️ Opened issue [#3554](https://github.com/settlemint/bpaas-launchpad/issues/3554) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+5. ❗️ Opened issue [#3553](https://github.com/settlemint/bpaas-launchpad/issues/3553) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+6. ❗️ Opened issue [#3552](https://github.com/settlemint/bpaas-launchpad/issues/3552) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+7. ❗️ Opened issue [#3551](https://github.com/settlemint/bpaas-launchpad/issues/3551) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+8. ❗️ Opened issue [#3550](https://github.com/settlemint/bpaas-launchpad/issues/3550) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+9. ❗️ Opened issue [#3549](https://github.com/settlemint/bpaas-launchpad/issues/3549) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+10. 🗣 Commented on [#3434](https://github.com/settlemint/bpaas-launchpad/issues/3434) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 <!--END_SECTION:activity-->
