@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#68](https://github.com/settlemint/certimint/pull/68) in [settlemint/certimint](https://github.com/settlemint/certimint)
-2. ❌ Closed PR [#67](https://github.com/settlemint/certimint/pull/67) in [settlemint/certimint](https://github.com/settlemint/certimint)
-3. ❌ Closed PR [#66](https://github.com/settlemint/certimint/pull/66) in [settlemint/certimint](https://github.com/settlemint/certimint)
-4. ❌ Closed PR [#65](https://github.com/settlemint/certimint/pull/65) in [settlemint/certimint](https://github.com/settlemint/certimint)
-5. ❌ Closed PR [#64](https://github.com/settlemint/certimint/pull/64) in [settlemint/certimint](https://github.com/settlemint/certimint)
-6. ❌ Closed PR [#63](https://github.com/settlemint/certimint/pull/63) in [settlemint/certimint](https://github.com/settlemint/certimint)
-7. ❌ Closed PR [#62](https://github.com/settlemint/certimint/pull/62) in [settlemint/certimint](https://github.com/settlemint/certimint)
-8. ❌ Closed PR [#61](https://github.com/settlemint/certimint/pull/61) in [settlemint/certimint](https://github.com/settlemint/certimint)
-9. ❌ Closed PR [#60](https://github.com/settlemint/certimint/pull/60) in [settlemint/certimint](https://github.com/settlemint/certimint)
-10. ❌ Closed PR [#58](https://github.com/settlemint/certimint/pull/58) in [settlemint/certimint](https://github.com/settlemint/certimint)
+1. 🔥 Pushed to settlemint/bpaas-launchpad
+2. ❌ Closed PR [#68](https://github.com/settlemint/certimint/pull/68) in [settlemint/certimint](https://github.com/settlemint/certimint)
+3. ❌ Closed PR [#67](https://github.com/settlemint/certimint/pull/67) in [settlemint/certimint](https://github.com/settlemint/certimint)
+4. ❌ Closed PR [#66](https://github.com/settlemint/certimint/pull/66) in [settlemint/certimint](https://github.com/settlemint/certimint)
+5. ❌ Closed PR [#65](https://github.com/settlemint/certimint/pull/65) in [settlemint/certimint](https://github.com/settlemint/certimint)
+6. ❌ Closed PR [#64](https://github.com/settlemint/certimint/pull/64) in [settlemint/certimint](https://github.com/settlemint/certimint)
+7. ❌ Closed PR [#63](https://github.com/settlemint/certimint/pull/63) in [settlemint/certimint](https://github.com/settlemint/certimint)
+8. ❌ Closed PR [#62](https://github.com/settlemint/certimint/pull/62) in [settlemint/certimint](https://github.com/settlemint/certimint)
+9. ❌ Closed PR [#61](https://github.com/settlemint/certimint/pull/61) in [settlemint/certimint](https://github.com/settlemint/certimint)
+10. ❌ Closed PR [#60](https://github.com/settlemint/certimint/pull/60) in [settlemint/certimint](https://github.com/settlemint/certimint)
 <!--END_SECTION:activity-->
