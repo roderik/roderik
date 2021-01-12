@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3563](https://github.com/settlemint/bpaas-launchpad/issues/3563) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-2. 🗣 Commented on [#3563](https://github.com/settlemint/bpaas-launchpad/issues/3563) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-3. 🗣 Commented on [#3561](https://github.com/settlemint/bpaas-launchpad/issues/3561) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-4. 🔥 Pushed to settlemint/bpaas-launchpad
-5. ❌ Closed PR [#68](https://github.com/settlemint/certimint/pull/68) in [settlemint/certimint](https://github.com/settlemint/certimint)
-6. ❌ Closed PR [#67](https://github.com/settlemint/certimint/pull/67) in [settlemint/certimint](https://github.com/settlemint/certimint)
-7. ❌ Closed PR [#66](https://github.com/settlemint/certimint/pull/66) in [settlemint/certimint](https://github.com/settlemint/certimint)
-8. ❌ Closed PR [#65](https://github.com/settlemint/certimint/pull/65) in [settlemint/certimint](https://github.com/settlemint/certimint)
-9. ❌ Closed PR [#64](https://github.com/settlemint/certimint/pull/64) in [settlemint/certimint](https://github.com/settlemint/certimint)
-10. ❌ Closed PR [#63](https://github.com/settlemint/certimint/pull/63) in [settlemint/certimint](https://github.com/settlemint/certimint)
+1. 🔥 Pushed to settlemint/bpaas-launchpad
+2. 💪 Opened PR [#3566](https://github.com/settlemint/bpaas-launchpad/pull/3566) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+3. ❗️ Opened issue [#3565](https://github.com/settlemint/bpaas-launchpad/issues/3565) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+4. ❗️ Opened issue [#3564](https://github.com/settlemint/bpaas-launchpad/issues/3564) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+5. 🗣 Commented on [#64](https://github.com/johndbritton/teleport/issues/64) in [johndbritton/teleport](https://github.com/johndbritton/teleport)
+6. 🗣 Commented on [#3421](https://github.com/settlemint/bpaas-launchpad/issues/3421) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+7. 🗣 Commented on [#3421](https://github.com/settlemint/bpaas-launchpad/issues/3421) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+8. 🗣 Commented on [#3421](https://github.com/settlemint/bpaas-launchpad/issues/3421) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+9. 🗣 Commented on [#3421](https://github.com/settlemint/bpaas-launchpad/issues/3421) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+10. 🗣 Commented on [#3421](https://github.com/settlemint/bpaas-launchpad/issues/3421) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 <!--END_SECTION:activity-->
