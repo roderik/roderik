@@ -23,7 +23,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-launchpad
+1. 🗣 Commented on [#3578](https://github.com/settlemint/bpaas-launchpad/issues/3578) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 2. 🔥 Pushed to settlemint/bpaas-launchpad
 3. 🔥 Pushed to settlemint/bpaas-launchpad
 4. 🔥 Pushed to settlemint/bpaas-launchpad
