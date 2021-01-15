@@ -23,9 +23,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3588](https://github.com/settlemint/bpaas-launchpad/issues/3588) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-2. 🔥 Pushed to settlemint/mongo
-3. 🔥 Pushed to settlemint/mongo
+1. 🔥 Pushed to settlemint/bpaas-launchpad
+2. 🔥 Pushed to settlemint/bpaas-launchpad
+3. 🗣 Commented on [#3588](https://github.com/settlemint/bpaas-launchpad/issues/3588) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 4. 🔥 Pushed to settlemint/mongo
 5. 🔥 Pushed to settlemint/mongo
 6. 🔥 Pushed to settlemint/mongo
