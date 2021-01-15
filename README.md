@@ -30,7 +30,7 @@
 5. 🔥 Pushed to settlemint/mongo
 6. 🔥 Pushed to settlemint/mongo
 7. 🔥 Pushed to settlemint/mongo
-8. ❗️ Closed issue [#3100](https://github.com/settlemint/bpaas-launchpad/issues/3100) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-9. ❗️ Closed issue [#3111](https://github.com/settlemint/bpaas-launchpad/issues/3111) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-10. ❗️ Opened issue [#3600](https://github.com/settlemint/bpaas-launchpad/issues/3600) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+8. 🔥 Pushed to settlemint/mongo
+9. 🔥 Pushed to settlemint/mongo
+10. 🔥 Pushed to settlemint/mongo
 <!--END_SECTION:activity-->
