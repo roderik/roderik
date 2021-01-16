@@ -27,8 +27,8 @@
 2. 🔥 Pushed to settlemint/bpaas-launchpad
 3. 🔥 Pushed to settlemint/bpaas-launchpad
 4. 🔥 Pushed to settlemint/bpaas-launchpad
-5. 🗣 Commented on [#3588](https://github.com/settlemint/bpaas-launchpad/issues/3588) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-6. 🔥 Pushed to settlemint/mongo
+5. 🔥 Pushed to settlemint/bpaas-launchpad
+6. 🗣 Commented on [#3588](https://github.com/settlemint/bpaas-launchpad/issues/3588) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 7. 🔥 Pushed to settlemint/mongo
 8. 🔥 Pushed to settlemint/mongo
 9. 🔥 Pushed to settlemint/mongo
