@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-infra
-2. 🔥 Pushed to settlemint/bpaas-launchpad
-3. 🗣 Commented on [#6153](https://github.com/pulumi/pulumi/issues/6153) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. 🗣 Commented on [#6153](https://github.com/pulumi/pulumi/issues/6153) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. ❗️ Opened issue [#6153](https://github.com/pulumi/pulumi/issues/6153) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 🔥 Pushed to settlemint/bpaas-containers
+2. 🔥 Pushed to settlemint/bpaas-containers
+3. 🔥 Pushed to settlemint/bpaas-containers
+4. 🔥 Pushed to settlemint/bpaas-containers
+5. 🔥 Pushed to settlemint/bpaas-infra
 6. 🔥 Pushed to settlemint/bpaas-launchpad
-7. 🔥 Pushed to settlemint/bpaas-launchpad
-8. 🗣 Commented on [#3631](https://github.com/settlemint/bpaas-launchpad/issues/3631) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-9. ❌ Closed PR [#3623](https://github.com/settlemint/bpaas-launchpad/pull/3623) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+7. 🗣 Commented on [#6153](https://github.com/pulumi/pulumi/issues/6153) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+8. 🗣 Commented on [#6153](https://github.com/pulumi/pulumi/issues/6153) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+9. ❗️ Opened issue [#6153](https://github.com/pulumi/pulumi/issues/6153) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 10. 🔥 Pushed to settlemint/bpaas-launchpad
 <!--END_SECTION:activity-->
