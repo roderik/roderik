@@ -24,13 +24,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6153](https://github.com/pulumi/pulumi/issues/6153) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. ❗️ Opened issue [#6153](https://github.com/pulumi/pulumi/issues/6153) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🔥 Pushed to settlemint/bpaas-launchpad
+2. 🗣 Commented on [#6153](https://github.com/pulumi/pulumi/issues/6153) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. ❗️ Opened issue [#6153](https://github.com/pulumi/pulumi/issues/6153) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 4. 🔥 Pushed to settlemint/bpaas-launchpad
-5. 🗣 Commented on [#3631](https://github.com/settlemint/bpaas-launchpad/issues/3631) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-6. ❌ Closed PR [#3623](https://github.com/settlemint/bpaas-launchpad/pull/3623) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-7. 🔥 Pushed to settlemint/bpaas-launchpad
-8. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
+5. 🔥 Pushed to settlemint/bpaas-launchpad
+6. 🗣 Commented on [#3631](https://github.com/settlemint/bpaas-launchpad/issues/3631) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+7. ❌ Closed PR [#3623](https://github.com/settlemint/bpaas-launchpad/pull/3623) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+8. 🔥 Pushed to settlemint/bpaas-launchpad
 9. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-10. 🔥 Pushed to settlemint/bpaas-enteth
+10. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
 <!--END_SECTION:activity-->
