@@ -32,5 +32,5 @@
 7. 🔥 Pushed to settlemint/poc
 8. 🔥 Pushed to settlemint/poc
 9. 🔥 Pushed to settlemint/poc
-10. 🔥 Pushed to roderik/dotfiles
+10. 🔥 Pushed to settlemint/poc
 <!--END_SECTION:activity-->
