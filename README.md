@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-launchpad
-2. 🔥 Pushed to settlemint/bpaas-launchpad
-3. 🎉 Merged PR [#3664](https://github.com/settlemint/bpaas-launchpad/pull/3664) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-4. ❗️ Closed issue [#3645](https://github.com/settlemint/bpaas-launchpad/issues/3645) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-5. ❌ Closed PR [#3670](https://github.com/settlemint/bpaas-launchpad/pull/3670) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-6. 🔥 Pushed to settlemint/bpaas-launchpad
-7. 🔥 Pushed to settlemint/bpaas-launchpad
-8. 🔥 Pushed to settlemint/bpaas-launchpad
+1. ❌ Closed PR [#3669](https://github.com/settlemint/bpaas-launchpad/pull/3669) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+2. 🗣 Commented on [#3669](https://github.com/settlemint/bpaas-launchpad/issues/3669) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+3. 🔥 Pushed to settlemint/bpaas-launchpad
+4. 🔥 Pushed to settlemint/bpaas-launchpad
+5. 🔥 Pushed to settlemint/bpaas-launchpad
+6. 🎉 Merged PR [#3664](https://github.com/settlemint/bpaas-launchpad/pull/3664) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+7. ❗️ Closed issue [#3645](https://github.com/settlemint/bpaas-launchpad/issues/3645) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+8. ❌ Closed PR [#3670](https://github.com/settlemint/bpaas-launchpad/pull/3670) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 9. 🔥 Pushed to settlemint/bpaas-launchpad
-10. 💪 Opened PR [#3670](https://github.com/settlemint/bpaas-launchpad/pull/3670) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+10. 🔥 Pushed to settlemint/bpaas-launchpad
 <!--END_SECTION:activity-->
