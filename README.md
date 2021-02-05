@@ -28,9 +28,9 @@
 3. 🔥 Pushed to settlemint/bpaas-launchpad
 4. 🔥 Pushed to settlemint/bpaas-launchpad
 5. 🔥 Pushed to settlemint/bpaas-launchpad
-6. ❗️ Opened issue [#3750](https://github.com/settlemint/bpaas-launchpad/issues/3750) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-7. 💪 Opened PR [#3749](https://github.com/settlemint/bpaas-launchpad/pull/3749) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-8. 🗣 Commented on [#3734](https://github.com/settlemint/bpaas-launchpad/issues/3734) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-9. 🔥 Pushed to settlemint/bpaas-launchpad
-10. 🎉 Merged PR [#3740](https://github.com/settlemint/bpaas-launchpad/pull/3740) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+6. 🔥 Pushed to settlemint/bpaas-launchpad
+7. 🔥 Pushed to settlemint/bpaas-launchpad
+8. ❗️ Opened issue [#3750](https://github.com/settlemint/bpaas-launchpad/issues/3750) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+9. 💪 Opened PR [#3749](https://github.com/settlemint/bpaas-launchpad/pull/3749) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+10. 🗣 Commented on [#3734](https://github.com/settlemint/bpaas-launchpad/issues/3734) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 <!--END_SECTION:activity-->
