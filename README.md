@@ -25,12 +25,12 @@
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-launchpad
 2. 🔥 Pushed to settlemint/bpaas-launchpad
-3. 🗣 Commented on [#3807](https://github.com/settlemint/bpaas-launchpad/issues/3807) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-4. 🔥 Pushed to settlemint/bpaas-enteth
-5. 🎉 Merged PR [#485](https://github.com/settlemint/bpaas-enteth/pull/485) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
-6. 🗣 Commented on [#3811](https://github.com/settlemint/bpaas-launchpad/issues/3811) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-7. 🗣 Commented on [#3811](https://github.com/settlemint/bpaas-launchpad/issues/3811) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+3. 🔥 Pushed to settlemint/bpaas-launchpad
+4. 🔥 Pushed to settlemint/bpaas-launchpad
+5. 🗣 Commented on [#3807](https://github.com/settlemint/bpaas-launchpad/issues/3807) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+6. 🔥 Pushed to settlemint/bpaas-enteth
+7. 🎉 Merged PR [#485](https://github.com/settlemint/bpaas-enteth/pull/485) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
 8. 🗣 Commented on [#3811](https://github.com/settlemint/bpaas-launchpad/issues/3811) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-9. 🔥 Pushed to settlemint/bpaas-launchpad
-10. 🔥 Pushed to settlemint/bpaas-launchpad
+9. 🗣 Commented on [#3811](https://github.com/settlemint/bpaas-launchpad/issues/3811) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+10. 🗣 Commented on [#3811](https://github.com/settlemint/bpaas-launchpad/issues/3811) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 <!--END_SECTION:activity-->
