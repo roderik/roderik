@@ -28,9 +28,9 @@
 3. 🔥 Pushed to settlemint/bpaas-launchpad
 4. 🔥 Pushed to settlemint/bpaas-launchpad
 5. 🔥 Pushed to settlemint/bpaas-launchpad
-6. ❗️ Opened issue [#9](https://github.com/opstrace/customer-settlemint/issues/9) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+6. 🔥 Pushed to settlemint/bpaas-launchpad
 7. 🔥 Pushed to settlemint/bpaas-launchpad
-8. 🔥 Pushed to settlemint/bpaas-launchpad
-9. 🔥 Pushed to settlemint/bpaas-containers
-10. 🔥 Pushed to settlemint/bpaas-containers
+8. ❗️ Opened issue [#9](https://github.com/opstrace/customer-settlemint/issues/9) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+9. 🔥 Pushed to settlemint/bpaas-launchpad
+10. 🔥 Pushed to settlemint/bpaas-launchpad
 <!--END_SECTION:activity-->
