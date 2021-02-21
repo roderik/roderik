@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/opstrace/customer-settlemint/issues/9) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
-2. 🔥 Pushed to settlemint/bpaas-launchpad
+1. 🔥 Pushed to settlemint/bpaas-launchpad
+2. ❗️ Opened issue [#9](https://github.com/opstrace/customer-settlemint/issues/9) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
 3. 🔥 Pushed to settlemint/bpaas-launchpad
-4. 🔥 Pushed to settlemint/bpaas-containers
+4. 🔥 Pushed to settlemint/bpaas-launchpad
 5. 🔥 Pushed to settlemint/bpaas-containers
-6. 🗣 Commented on [#7](https://github.com/opstrace/customer-settlemint/issues/7) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
-7. 🔥 Pushed to settlemint/bpaas-launchpad
-8. ❗️ Closed issue [#5](https://github.com/opstrace/customer-settlemint/issues/5) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
-9. 🗣 Commented on [#8](https://github.com/opstrace/customer-settlemint/issues/8) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+6. 🔥 Pushed to settlemint/bpaas-containers
+7. 🗣 Commented on [#7](https://github.com/opstrace/customer-settlemint/issues/7) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+8. 🔥 Pushed to settlemint/bpaas-launchpad
+9. ❗️ Closed issue [#5](https://github.com/opstrace/customer-settlemint/issues/5) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
 10. 🗣 Commented on [#8](https://github.com/opstrace/customer-settlemint/issues/8) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
 <!--END_SECTION:activity-->
