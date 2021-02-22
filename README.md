@@ -27,10 +27,10 @@
 2. 🔥 Pushed to settlemint/bpaas-launchpad
 3. 🔥 Pushed to settlemint/bpaas-launchpad
 4. 🔥 Pushed to settlemint/bpaas-launchpad
-5. ❗️ Closed issue [#7](https://github.com/opstrace/customer-settlemint/issues/7) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
-6. 🗣 Commented on [#7](https://github.com/opstrace/customer-settlemint/issues/7) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
-7. 🔥 Pushed to settlemint/bpaas-launchpad
-8. 🗣 Commented on [#9](https://github.com/opstrace/customer-settlemint/issues/9) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
-9. ❗️ Closed issue [#3](https://github.com/opstrace/customer-settlemint/issues/3) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
-10. 🗣 Commented on [#3](https://github.com/opstrace/customer-settlemint/issues/3) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+5. 🔥 Pushed to settlemint/bpaas-launchpad
+6. ❗️ Closed issue [#7](https://github.com/opstrace/customer-settlemint/issues/7) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+7. 🗣 Commented on [#7](https://github.com/opstrace/customer-settlemint/issues/7) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+8. 🔥 Pushed to settlemint/bpaas-launchpad
+9. 🗣 Commented on [#9](https://github.com/opstrace/customer-settlemint/issues/9) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+10. ❗️ Closed issue [#3](https://github.com/opstrace/customer-settlemint/issues/3) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
 <!--END_SECTION:activity-->
