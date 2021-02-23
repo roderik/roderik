@@ -25,12 +25,12 @@
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-launchpad
 2. 🔥 Pushed to settlemint/bpaas-launchpad
-3. 🎉 Merged PR [#3862](https://github.com/settlemint/bpaas-launchpad/pull/3862) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-4. 💪 Opened PR [#3862](https://github.com/settlemint/bpaas-launchpad/pull/3862) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-5. ❗️ Closed issue [#11](https://github.com/opstrace/customer-settlemint/issues/11) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
-6. 🗣 Commented on [#11](https://github.com/opstrace/customer-settlemint/issues/11) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
-7. 🔥 Pushed to settlemint/bpaas-launchpad
-8. ❗️ Opened issue [#11](https://github.com/opstrace/customer-settlemint/issues/11) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
-9. ❗️ Opened issue [#10](https://github.com/opstrace/customer-settlemint/issues/10) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
-10. 🗣 Commented on [#8](https://github.com/opstrace/customer-settlemint/issues/8) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+3. 🔥 Pushed to settlemint/bpaas-launchpad
+4. 🎉 Merged PR [#3862](https://github.com/settlemint/bpaas-launchpad/pull/3862) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+5. 💪 Opened PR [#3862](https://github.com/settlemint/bpaas-launchpad/pull/3862) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+6. ❗️ Closed issue [#11](https://github.com/opstrace/customer-settlemint/issues/11) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+7. 🗣 Commented on [#11](https://github.com/opstrace/customer-settlemint/issues/11) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+8. 🔥 Pushed to settlemint/bpaas-launchpad
+9. ❗️ Opened issue [#11](https://github.com/opstrace/customer-settlemint/issues/11) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+10. ❗️ Opened issue [#10](https://github.com/opstrace/customer-settlemint/issues/10) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
 <!--END_SECTION:activity-->
