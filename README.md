@@ -27,10 +27,10 @@
 2. 🔥 Pushed to settlemint/bpaas-launchpad
 3. 🔥 Pushed to settlemint/bpaas-launchpad
 4. 🔥 Pushed to settlemint/bpaas-launchpad
-5. 🎉 Merged PR [#3862](https://github.com/settlemint/bpaas-launchpad/pull/3862) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-6. 💪 Opened PR [#3862](https://github.com/settlemint/bpaas-launchpad/pull/3862) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-7. ❗️ Closed issue [#11](https://github.com/opstrace/customer-settlemint/issues/11) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
-8. 🗣 Commented on [#11](https://github.com/opstrace/customer-settlemint/issues/11) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
-9. 🔥 Pushed to settlemint/bpaas-launchpad
-10. ❗️ Opened issue [#11](https://github.com/opstrace/customer-settlemint/issues/11) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+5. 🔥 Pushed to settlemint/bpaas-launchpad
+6. 🎉 Merged PR [#3862](https://github.com/settlemint/bpaas-launchpad/pull/3862) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+7. 💪 Opened PR [#3862](https://github.com/settlemint/bpaas-launchpad/pull/3862) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+8. ❗️ Closed issue [#11](https://github.com/opstrace/customer-settlemint/issues/11) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+9. 🗣 Commented on [#11](https://github.com/opstrace/customer-settlemint/issues/11) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+10. 🔥 Pushed to settlemint/bpaas-launchpad
 <!--END_SECTION:activity-->
