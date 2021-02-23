@@ -24,12 +24,12 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-containers
-2. 💪 Opened PR [#19](https://github.com/settlemint/tradetrust-api/pull/19) in [settlemint/tradetrust-api](https://github.com/settlemint/tradetrust-api)
-3. 🔥 Pushed to settlemint/bpaas-launchpad
+2. 🔥 Pushed to settlemint/bpaas-containers
+3. 💪 Opened PR [#19](https://github.com/settlemint/tradetrust-api/pull/19) in [settlemint/tradetrust-api](https://github.com/settlemint/tradetrust-api)
 4. 🔥 Pushed to settlemint/bpaas-launchpad
-5. 🎉 Merged PR [#3855](https://github.com/settlemint/bpaas-launchpad/pull/3855) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-6. 💪 Opened PR [#3855](https://github.com/settlemint/bpaas-launchpad/pull/3855) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-7. 🔥 Pushed to settlemint/bpaas-launchpad
+5. 🔥 Pushed to settlemint/bpaas-launchpad
+6. 🎉 Merged PR [#3855](https://github.com/settlemint/bpaas-launchpad/pull/3855) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+7. 💪 Opened PR [#3855](https://github.com/settlemint/bpaas-launchpad/pull/3855) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 8. 🔥 Pushed to settlemint/bpaas-launchpad
 9. 🔥 Pushed to settlemint/bpaas-launchpad
 10. 🔥 Pushed to settlemint/bpaas-launchpad
