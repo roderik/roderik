@@ -27,10 +27,10 @@
 2. 🔥 Pushed to settlemint/bpaas-infra
 3. 🔥 Pushed to settlemint/bpaas-infra
 4. 🔥 Pushed to settlemint/bpaas-infra
-5. 🔥 Pushed to roderik/roderik.github.io
+5. 🔥 Pushed to settlemint/bpaas-infra
 6. 🔥 Pushed to roderik/roderik.github.io
 7. 🔥 Pushed to roderik/roderik.github.io
-8. 🔥 Pushed to settlemint/bpaas-infra
+8. 🔥 Pushed to roderik/roderik.github.io
 9. 🔥 Pushed to settlemint/bpaas-infra
-10. 🔥 Pushed to settlemint/bpaas-launchpad
+10. 🔥 Pushed to settlemint/bpaas-infra
 <!--END_SECTION:activity-->
