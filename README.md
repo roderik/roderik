@@ -24,13 +24,13 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-infra
-2. 🔥 Pushed to settlemint/bpaas-infra
-3. 🔥 Pushed to roderik/roderik.github.io
+2. 🔥 Pushed to settlemint/bpaas-launchpad
+3. 🔥 Pushed to settlemint/bpaas-infra
 4. 🔥 Pushed to settlemint/bpaas-infra
 5. 🔥 Pushed to settlemint/bpaas-infra
 6. 🔥 Pushed to settlemint/bpaas-infra
-7. 🔥 Pushed to settlemint/bpaas-infra
+7. 🔥 Pushed to roderik/roderik.github.io
 8. 🔥 Pushed to settlemint/bpaas-infra
-9. 🔥 Pushed to roderik/roderik.github.io
-10. 🔥 Pushed to roderik/roderik.github.io
+9. 🔥 Pushed to settlemint/bpaas-infra
+10. 🔥 Pushed to settlemint/bpaas-infra
 <!--END_SECTION:activity-->
