@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3872](https://github.com/settlemint/bpaas-launchpad/issues/3872) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-2. 🗣 Commented on [#3795](https://github.com/settlemint/bpaas-launchpad/issues/3795) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-3. 🗣 Commented on [#3794](https://github.com/settlemint/bpaas-launchpad/issues/3794) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-4. 🗣 Commented on [#3794](https://github.com/settlemint/bpaas-launchpad/issues/3794) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+1. 🗣 Commented on [#8](https://github.com/opstrace/customer-settlemint/issues/8) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+2. 🗣 Commented on [#8](https://github.com/opstrace/customer-settlemint/issues/8) in [opstrace/customer-settlemint](https://github.com/opstrace/customer-settlemint)
+3. 🗣 Commented on [#3872](https://github.com/settlemint/bpaas-launchpad/issues/3872) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+4. 🗣 Commented on [#3795](https://github.com/settlemint/bpaas-launchpad/issues/3795) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 5. 🗣 Commented on [#3794](https://github.com/settlemint/bpaas-launchpad/issues/3794) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-6. 🔥 Pushed to settlemint/bpaas-launchpad
-7. 🔥 Pushed to settlemint/bpaas-launchpad
+6. 🗣 Commented on [#3794](https://github.com/settlemint/bpaas-launchpad/issues/3794) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+7. 🗣 Commented on [#3794](https://github.com/settlemint/bpaas-launchpad/issues/3794) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 8. 🔥 Pushed to settlemint/bpaas-launchpad
-9. 🗣 Commented on [#3837](https://github.com/settlemint/bpaas-launchpad/issues/3837) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+9. 🔥 Pushed to settlemint/bpaas-launchpad
 10. 🔥 Pushed to settlemint/bpaas-launchpad
 <!--END_SECTION:activity-->
