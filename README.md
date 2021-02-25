@@ -24,13 +24,13 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-launchpad
-2. 🎉 Merged PR [#3893](https://github.com/settlemint/bpaas-launchpad/pull/3893) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-3. 💪 Opened PR [#3893](https://github.com/settlemint/bpaas-launchpad/pull/3893) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-4. 🗣 Commented on [#1692](https://github.com/roboll/helmfile/issues/1692) in [roboll/helmfile](https://github.com/roboll/helmfile)
-5. 🗣 Commented on [#3795](https://github.com/settlemint/bpaas-launchpad/issues/3795) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-6. 🔥 Pushed to settlemint/bpaas-launchpad
-7. 🔥 Pushed to roderik/roderik.github.io
-8. 🗣 Commented on [#3794](https://github.com/settlemint/bpaas-launchpad/issues/3794) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-9. 🗣 Commented on [#3795](https://github.com/settlemint/bpaas-launchpad/issues/3795) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-10. 🗣 Commented on [#3872](https://github.com/settlemint/bpaas-launchpad/issues/3872) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+2. 🔥 Pushed to settlemint/bpaas-launchpad
+3. 🔥 Pushed to settlemint/bpaas-launchpad
+4. 🎉 Merged PR [#3893](https://github.com/settlemint/bpaas-launchpad/pull/3893) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+5. 💪 Opened PR [#3893](https://github.com/settlemint/bpaas-launchpad/pull/3893) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+6. 🗣 Commented on [#1692](https://github.com/roboll/helmfile/issues/1692) in [roboll/helmfile](https://github.com/roboll/helmfile)
+7. 🗣 Commented on [#3795](https://github.com/settlemint/bpaas-launchpad/issues/3795) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+8. 🔥 Pushed to settlemint/bpaas-launchpad
+9. 🔥 Pushed to roderik/roderik.github.io
+10. 🗣 Commented on [#3794](https://github.com/settlemint/bpaas-launchpad/issues/3794) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 <!--END_SECTION:activity-->
