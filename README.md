@@ -27,8 +27,8 @@
 2. 🔥 Pushed to settlemint/bpaas-infra
 3. 🔥 Pushed to settlemint/bpaas-infra
 4. 🔥 Pushed to settlemint/bpaas-infra
-5. 🔥 Pushed to settlemint/identimint
-6. 🔥 Pushed to settlemint/bpaas-infra
+5. 🔥 Pushed to settlemint/bpaas-infra
+6. 🔥 Pushed to settlemint/identimint
 7. 🔥 Pushed to settlemint/bpaas-infra
 8. 🔥 Pushed to settlemint/bpaas-infra
 9. 🔥 Pushed to settlemint/bpaas-infra
