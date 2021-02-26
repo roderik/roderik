@@ -24,8 +24,8 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-infra
-2. 🔥 Pushed to settlemint/identimint
-3. 🔥 Pushed to settlemint/bpaas-infra
+2. 🔥 Pushed to settlemint/bpaas-infra
+3. 🔥 Pushed to settlemint/identimint
 4. 🔥 Pushed to settlemint/bpaas-infra
 5. 🔥 Pushed to settlemint/bpaas-infra
 6. 🔥 Pushed to settlemint/bpaas-infra
