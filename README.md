@@ -28,9 +28,9 @@
 3. 🔥 Pushed to settlemint/bpaas-infra
 4. 🔥 Pushed to settlemint/bpaas-infra
 5. 🔥 Pushed to settlemint/bpaas-infra
-6. 🔥 Pushed to settlemint/bpaas-launchpad
-7. 🔥 Pushed to settlemint/bpaas-infra
-8. 🔥 Pushed to settlemint/bpaas-launchpad
-9. ❗️ Opened issue [#3910](https://github.com/settlemint/bpaas-launchpad/issues/3910) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-10. 🔥 Pushed to settlemint/bpaas-infra
+6. 🔥 Pushed to settlemint/bpaas-infra
+7. 🔥 Pushed to settlemint/bpaas-launchpad
+8. 🔥 Pushed to settlemint/bpaas-infra
+9. 🔥 Pushed to settlemint/bpaas-launchpad
+10. ❗️ Opened issue [#3910](https://github.com/settlemint/bpaas-launchpad/issues/3910) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 <!--END_SECTION:activity-->
