@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-launchpad
+1. 🔥 Pushed to settlemint/bpaas-infra
 2. 🔥 Pushed to settlemint/bpaas-infra
-3. 🔥 Pushed to settlemint/bpaas-infra
+3. 🔥 Pushed to settlemint/bpaas-launchpad
 4. 🔥 Pushed to settlemint/bpaas-infra
 5. 🔥 Pushed to settlemint/bpaas-infra
 6. 🔥 Pushed to settlemint/bpaas-infra
 7. 🔥 Pushed to settlemint/bpaas-infra
-8. 🔥 Pushed to settlemint/bpaas-launchpad
+8. 🔥 Pushed to settlemint/bpaas-infra
 9. 🔥 Pushed to settlemint/bpaas-infra
 10. 🔥 Pushed to settlemint/bpaas-launchpad
 <!--END_SECTION:activity-->
