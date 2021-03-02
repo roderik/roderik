@@ -23,9 +23,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-infra
-2. 🔥 Pushed to settlemint/bpaas-containers
-3. 🔥 Pushed to settlemint/bpaas-enteth
+1. 🔥 Pushed to settlemint/bpaas-enteth
+2. 🔥 Pushed to settlemint/bpaas-infra
+3. 🔥 Pushed to settlemint/bpaas-containers
 4. 🔥 Pushed to settlemint/bpaas-enteth
 5. 🔥 Pushed to settlemint/bpaas-enteth
 6. 🔥 Pushed to settlemint/bpaas-enteth
