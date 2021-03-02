@@ -32,5 +32,5 @@
 7. 🔥 Pushed to settlemint/bpaas-enteth
 8. 🔥 Pushed to settlemint/bpaas-enteth
 9. 🔥 Pushed to settlemint/bpaas-enteth
-10. 💪 Opened PR [#3913](https://github.com/settlemint/bpaas-launchpad/pull/3913) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+10. 🔥 Pushed to settlemint/bpaas-enteth
 <!--END_SECTION:activity-->
