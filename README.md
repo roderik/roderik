@@ -30,7 +30,7 @@
 5. 🔥 Pushed to settlemint/bpaas-enteth
 6. 🔥 Pushed to settlemint/bpaas-enteth
 7. 🔥 Pushed to settlemint/bpaas-enteth
-8. 💪 Opened PR [#3913](https://github.com/settlemint/bpaas-launchpad/pull/3913) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-9. 🔥 Pushed to settlemint/bpaas-launchpad
-10. 🔥 Pushed to settlemint/bpaas-infra
+8. 🔥 Pushed to settlemint/bpaas-enteth
+9. 🔥 Pushed to settlemint/bpaas-enteth
+10. 💪 Opened PR [#3913](https://github.com/settlemint/bpaas-launchpad/pull/3913) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 <!--END_SECTION:activity-->
