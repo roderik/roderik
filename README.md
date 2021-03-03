@@ -24,13 +24,13 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-enteth
-2. 💪 Opened PR [#555](https://github.com/settlemint/bpaas-enteth/pull/555) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
-3. 🔥 Pushed to settlemint/bpaas-enteth
+2. 🔥 Pushed to settlemint/bpaas-enteth
+3. 💪 Opened PR [#555](https://github.com/settlemint/bpaas-enteth/pull/555) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
 4. 🔥 Pushed to settlemint/bpaas-enteth
-5. ❗️ Opened issue [#3922](https://github.com/settlemint/bpaas-launchpad/issues/3922) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-6. ❗️ Opened issue [#3921](https://github.com/settlemint/bpaas-launchpad/issues/3921) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-7. ❗️ Opened issue [#3920](https://github.com/settlemint/bpaas-launchpad/issues/3920) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-8. 🔥 Pushed to settlemint/bpaas-enteth
-9. 🔥 Pushed to settlemint/bpaas-infra
-10. 🔥 Pushed to settlemint/bpaas-containers
+5. 🔥 Pushed to settlemint/bpaas-enteth
+6. ❗️ Opened issue [#3922](https://github.com/settlemint/bpaas-launchpad/issues/3922) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+7. ❗️ Opened issue [#3921](https://github.com/settlemint/bpaas-launchpad/issues/3921) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+8. ❗️ Opened issue [#3920](https://github.com/settlemint/bpaas-launchpad/issues/3920) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+9. 🔥 Pushed to settlemint/bpaas-enteth
+10. 🔥 Pushed to settlemint/bpaas-infra
 <!--END_SECTION:activity-->
