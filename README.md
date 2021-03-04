@@ -24,8 +24,8 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-enteth
-2. ❗️ Opened issue [#3931](https://github.com/settlemint/bpaas-launchpad/issues/3931) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-3. 🔥 Pushed to settlemint/bpaas-enteth
+2. 🔥 Pushed to settlemint/bpaas-enteth
+3. ❗️ Opened issue [#3931](https://github.com/settlemint/bpaas-launchpad/issues/3931) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 4. 🔥 Pushed to settlemint/bpaas-enteth
 5. 🔥 Pushed to settlemint/bpaas-enteth
 6. 🔥 Pushed to settlemint/bpaas-enteth
