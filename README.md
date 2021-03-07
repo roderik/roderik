@@ -24,13 +24,13 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to roderik/roderik.github.io
-2. 🔥 Pushed to roderik/dotfiles
+2. 🔥 Pushed to roderik/roderik.github.io
 3. 🔥 Pushed to roderik/dotfiles
 4. 🔥 Pushed to roderik/dotfiles
 5. 🔥 Pushed to roderik/dotfiles
 6. 🔥 Pushed to roderik/dotfiles
 7. 🔥 Pushed to roderik/dotfiles
 8. 🔥 Pushed to roderik/dotfiles
-9. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+9. 🔥 Pushed to roderik/dotfiles
 10. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 <!--END_SECTION:activity-->
