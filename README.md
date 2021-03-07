@@ -25,9 +25,9 @@
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to roderik/chartmuseum-tutorial
 2. 🔥 Pushed to roderik/chartmuseum-tutorial
-3. 🔥 Pushed to roderik/roderik.github.io
+3. 🔥 Pushed to roderik/chartmuseum-tutorial
 4. 🔥 Pushed to roderik/roderik.github.io
-5. 🔥 Pushed to roderik/dotfiles
+5. 🔥 Pushed to roderik/roderik.github.io
 6. 🔥 Pushed to roderik/dotfiles
 7. 🔥 Pushed to roderik/dotfiles
 8. 🔥 Pushed to roderik/dotfiles
