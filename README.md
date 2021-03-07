@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+1. 🔥 Pushed to roderik/dotfiles
 2. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-3. 🎉 Merged PR [#1](https://github.com/settlemint/bolero-crowdfunding-poc/pull/1) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
-4. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+3. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+4. 🎉 Merged PR [#1](https://github.com/settlemint/bolero-crowdfunding-poc/pull/1) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
 5. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 6. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 7. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 8. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 9. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-10. 💪 Opened PR [#1](https://github.com/settlemint/bolero-crowdfunding-poc/pull/1) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
+10. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 <!--END_SECTION:activity-->
