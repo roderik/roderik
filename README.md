@@ -26,11 +26,11 @@
 1. 🔥 Pushed to roderik/dotfiles
 2. 🔥 Pushed to roderik/dotfiles
 3. 🔥 Pushed to roderik/dotfiles
-4. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-5. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-6. 🎉 Merged PR [#1](https://github.com/settlemint/bolero-crowdfunding-poc/pull/1) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
+4. 🔥 Pushed to roderik/dotfiles
+5. 🔥 Pushed to roderik/dotfiles
+6. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 7. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-8. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+8. 🎉 Merged PR [#1](https://github.com/settlemint/bolero-crowdfunding-poc/pull/1) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
 9. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 10. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 <!--END_SECTION:activity-->
