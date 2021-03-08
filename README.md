@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-2. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-3. 🔥 Pushed to roderik/chartmuseum-tutorial
-4. 🔥 Pushed to roderik/roderik.github.io
+1. 💪 Opened PR [#340](https://github.com/ethereum-ts/TypeChain/pull/340) in [ethereum-ts/TypeChain](https://github.com/ethereum-ts/TypeChain)
+2. 🔥 Pushed to roderik/TypeChain
+3. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+4. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 5. 🔥 Pushed to roderik/chartmuseum-tutorial
 6. 🔥 Pushed to roderik/roderik.github.io
-7. 🔥 Pushed to roderik/roderik.github.io
-8. 🔥 Pushed to roderik/chartmuseum-tutorial
-9. 🔥 Pushed to roderik/chartmuseum-tutorial
+7. 🔥 Pushed to roderik/chartmuseum-tutorial
+8. 🔥 Pushed to roderik/roderik.github.io
+9. 🔥 Pushed to roderik/roderik.github.io
 10. 🔥 Pushed to roderik/chartmuseum-tutorial
 <!--END_SECTION:activity-->
