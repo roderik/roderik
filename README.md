@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-launchpad
-2. 🎉 Merged PR [#3913](https://github.com/settlemint/bpaas-launchpad/pull/3913) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-3. 🔥 Pushed to settlemint/bpaas-launchpad
-4. 🔥 Pushed to settlemint/bpaas-enteth
-5. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-6. 🔥 Pushed to settlemint/bpaas-enteth
+1. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+2. 🔥 Pushed to settlemint/bpaas-launchpad
+3. 🎉 Merged PR [#3913](https://github.com/settlemint/bpaas-launchpad/pull/3913) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+4. 🔥 Pushed to settlemint/bpaas-launchpad
+5. 🔥 Pushed to settlemint/bpaas-enteth
+6. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 7. 🔥 Pushed to settlemint/bpaas-enteth
-8. 🔥 Pushed to settlemint/bpaas-launchpad
-9. 🔥 Pushed to settlemint/bpaas-enteth
-10. ❌ Closed PR [#603](https://github.com/settlemint/bpaas-enteth/pull/603) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
+8. 🔥 Pushed to settlemint/bpaas-enteth
+9. 🔥 Pushed to settlemint/bpaas-launchpad
+10. 🔥 Pushed to settlemint/bpaas-enteth
 <!--END_SECTION:activity-->
