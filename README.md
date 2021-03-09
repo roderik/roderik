@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-enteth
+1. 🔥 Pushed to settlemint/bpaas-launchpad
 2. 🔥 Pushed to settlemint/bpaas-enteth
 3. 🔥 Pushed to settlemint/bpaas-enteth
-4. 🗣 Commented on [#3952](https://github.com/settlemint/bpaas-launchpad/issues/3952) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-5. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-6. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-7. 🎉 Merged PR [#2](https://github.com/settlemint/bolero-crowdfunding-poc/pull/2) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
+4. 🔥 Pushed to settlemint/bpaas-enteth
+5. 🔥 Pushed to settlemint/bpaas-enteth
+6. 🔥 Pushed to settlemint/bpaas-enteth
+7. 🗣 Commented on [#3952](https://github.com/settlemint/bpaas-launchpad/issues/3952) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 8. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 9. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-10. 💪 Opened PR [#2](https://github.com/settlemint/bolero-crowdfunding-poc/pull/2) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
+10. 🎉 Merged PR [#2](https://github.com/settlemint/bolero-crowdfunding-poc/pull/2) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
 <!--END_SECTION:activity-->
