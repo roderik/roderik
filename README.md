@@ -23,12 +23,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-enteth
-2. 🔥 Pushed to settlemint/bpaas-enteth
-3. 🔥 Pushed to settlemint/bpaas-enteth
-4. 🔥 Pushed to settlemint/bpaas-enteth
+1. ❗️ Closed issue [#298](https://github.com/settlemint/bpaas-enteth/issues/298) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
+2. ❗️ Closed issue [#360](https://github.com/settlemint/bpaas-enteth/issues/360) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
+3. 🗣 Commented on [#360](https://github.com/settlemint/bpaas-enteth/issues/360) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
+4. ❗️ Closed issue [#492](https://github.com/settlemint/bpaas-enteth/issues/492) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
 5. 🔥 Pushed to settlemint/bpaas-enteth
-6. 🔥 Pushed to settlemint/bpaas-enteth
+6. 🔥 Pushed to settlemint/bpaas-launchpad
 7. 🔥 Pushed to settlemint/bpaas-enteth
 8. 🔥 Pushed to settlemint/bpaas-enteth
 9. 🔥 Pushed to settlemint/bpaas-enteth
