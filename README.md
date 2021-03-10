@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-infra
-2. 🗣 Commented on [#4868](https://github.com/pulumi/pulumi/issues/4868) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 🔥 Pushed to settlemint/bpaas-launchpad
+2. 🔥 Pushed to settlemint/bpaas-infra
 3. 🗣 Commented on [#4868](https://github.com/pulumi/pulumi/issues/4868) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. 🔥 Pushed to settlemint/bpaas-launchpad
+4. 🗣 Commented on [#4868](https://github.com/pulumi/pulumi/issues/4868) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 5. 🔥 Pushed to settlemint/bpaas-launchpad
 6. 🔥 Pushed to settlemint/bpaas-launchpad
 7. 🔥 Pushed to settlemint/bpaas-launchpad
-8. ❗️ Closed issue [#406](https://github.com/settlemint/bpaas-enteth/issues/406) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
-9. 🗣 Commented on [#406](https://github.com/settlemint/bpaas-enteth/issues/406) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
-10. ❗️ Closed issue [#276](https://github.com/settlemint/bpaas-enteth/issues/276) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
+8. 🔥 Pushed to settlemint/bpaas-launchpad
+9. ❗️ Closed issue [#406](https://github.com/settlemint/bpaas-enteth/issues/406) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
+10. 🗣 Commented on [#406](https://github.com/settlemint/bpaas-enteth/issues/406) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
 <!--END_SECTION:activity-->
