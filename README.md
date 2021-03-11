@@ -29,8 +29,8 @@
 4. 🔥 Pushed to settlemint/bpaas-enteth
 5. 🔥 Pushed to settlemint/bpaas-enteth
 6. 🔥 Pushed to settlemint/bpaas-enteth
-7. 🗣 Commented on [#3984](https://github.com/settlemint/bpaas-launchpad/issues/3984) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-8. ❗️ Closed issue [#121](https://github.com/settlemint/scb-asset-tokenization-platform/issues/121) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
-9. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
+7. 🔥 Pushed to settlemint/bpaas-enteth
+8. 🗣 Commented on [#3984](https://github.com/settlemint/bpaas-launchpad/issues/3984) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+9. ❗️ Closed issue [#121](https://github.com/settlemint/scb-asset-tokenization-platform/issues/121) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
 10. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
 <!--END_SECTION:activity-->
