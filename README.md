@@ -29,8 +29,8 @@
 4. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
 5. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
 6. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-7. ❗️ Opened issue [#123](https://github.com/settlemint/scb-asset-tokenization-platform/issues/123) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
+7. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
 8. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
 9. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-10. 🎉 Merged PR [#122](https://github.com/settlemint/scb-asset-tokenization-platform/pull/122) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
+10. ❗️ Opened issue [#123](https://github.com/settlemint/scb-asset-tokenization-platform/issues/123) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
 <!--END_SECTION:activity-->
