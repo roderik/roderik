@@ -24,13 +24,13 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-2. 🎉 Merged PR [#122](https://github.com/settlemint/scb-asset-tokenization-platform/pull/122) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
+2. ❗️ Opened issue [#123](https://github.com/settlemint/scb-asset-tokenization-platform/issues/123) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
 3. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-4. 💪 Opened PR [#122](https://github.com/settlemint/scb-asset-tokenization-platform/pull/122) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
-5. 🔥 Pushed to settlemint/bpaas-launchpad
-6. 🎉 Merged PR [#610](https://github.com/settlemint/bpaas-enteth/pull/610) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
-7. 🔥 Pushed to settlemint/bpaas-enteth
-8. 💪 Opened PR [#610](https://github.com/settlemint/bpaas-enteth/pull/610) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
-9. 🔥 Pushed to settlemint/bpaas-launchpad
-10. 🔥 Pushed to settlemint/bpaas-launchpad
+4. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
+5. 🎉 Merged PR [#122](https://github.com/settlemint/scb-asset-tokenization-platform/pull/122) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
+6. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
+7. 💪 Opened PR [#122](https://github.com/settlemint/scb-asset-tokenization-platform/pull/122) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
+8. 🔥 Pushed to settlemint/bpaas-launchpad
+9. 🎉 Merged PR [#610](https://github.com/settlemint/bpaas-enteth/pull/610) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
+10. 🔥 Pushed to settlemint/bpaas-enteth
 <!--END_SECTION:activity-->
