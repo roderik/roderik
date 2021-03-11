@@ -24,7 +24,7 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-2. 🔥 Pushed to settlemint/bpaas-enteth
+2. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 3. 🔥 Pushed to settlemint/bpaas-enteth
 4. 🔥 Pushed to settlemint/bpaas-enteth
 5. 🔥 Pushed to settlemint/bpaas-enteth
