@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-launchpad
-2. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-3. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-4. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-5. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-6. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-7. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-8. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-9. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-10. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
+1. ❗️ Closed issue [#2746](https://github.com/settlemint/bpaas-launchpad/issues/2746) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+2. ❗️ Closed issue [#2901](https://github.com/settlemint/bpaas-launchpad/issues/2901) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+3. ❗️ Closed issue [#149](https://github.com/settlemint/bpaas-corda/issues/149) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
+4. ❗️ Closed issue [#3932](https://github.com/settlemint/bpaas-launchpad/issues/3932) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+5. 🗣 Commented on [#3932](https://github.com/settlemint/bpaas-launchpad/issues/3932) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+6. ❌ Closed PR [#228](https://github.com/settlemint/bpaas-corda/pull/228) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
+7. ❌ Closed PR [#227](https://github.com/settlemint/bpaas-corda/pull/227) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
+8. ❌ Closed PR [#226](https://github.com/settlemint/bpaas-corda/pull/226) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
+9. ❌ Closed PR [#225](https://github.com/settlemint/bpaas-corda/pull/225) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
+10. ❌ Closed PR [#224](https://github.com/settlemint/bpaas-corda/pull/224) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
 <!--END_SECTION:activity-->
