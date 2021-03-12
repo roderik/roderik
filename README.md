@@ -25,12 +25,12 @@
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-enteth
 2. 🔥 Pushed to settlemint/bpaas-enteth
-3. ❌ Closed PR [#617](https://github.com/settlemint/bpaas-enteth/pull/617) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
-4. ❌ Closed PR [#616](https://github.com/settlemint/bpaas-enteth/pull/616) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
-5. ❌ Closed PR [#615](https://github.com/settlemint/bpaas-enteth/pull/615) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
-6. ❌ Closed PR [#614](https://github.com/settlemint/bpaas-enteth/pull/614) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
-7. 🔥 Pushed to settlemint/bpaas-enteth
-8. ❗️ Opened issue [#4](https://github.com/settlemint/bolero-crowdfunding-poc/issues/4) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
-9. ❗️ Opened issue [#3](https://github.com/settlemint/bolero-crowdfunding-poc/issues/3) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
-10. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+3. 🔥 Pushed to settlemint/bpaas-enteth
+4. ❌ Closed PR [#617](https://github.com/settlemint/bpaas-enteth/pull/617) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
+5. ❌ Closed PR [#616](https://github.com/settlemint/bpaas-enteth/pull/616) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
+6. ❌ Closed PR [#615](https://github.com/settlemint/bpaas-enteth/pull/615) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
+7. ❌ Closed PR [#614](https://github.com/settlemint/bpaas-enteth/pull/614) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
+8. 🔥 Pushed to settlemint/bpaas-enteth
+9. ❗️ Opened issue [#4](https://github.com/settlemint/bolero-crowdfunding-poc/issues/4) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
+10. ❗️ Opened issue [#3](https://github.com/settlemint/bolero-crowdfunding-poc/issues/3) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
 <!--END_SECTION:activity-->
