@@ -25,12 +25,12 @@
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-enteth
 2. 🔥 Pushed to settlemint/bpaas-enteth
-3. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+3. 🔥 Pushed to settlemint/bpaas-enteth
 4. 🔥 Pushed to settlemint/bpaas-enteth
 5. 🔥 Pushed to settlemint/bpaas-enteth
-6. 🔥 Pushed to settlemint/bpaas-enteth
+6. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 7. 🔥 Pushed to settlemint/bpaas-enteth
-8. ❌ Closed PR [#617](https://github.com/settlemint/bpaas-enteth/pull/617) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
-9. ❌ Closed PR [#616](https://github.com/settlemint/bpaas-enteth/pull/616) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
-10. ❌ Closed PR [#615](https://github.com/settlemint/bpaas-enteth/pull/615) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
+8. 🔥 Pushed to settlemint/bpaas-enteth
+9. 🔥 Pushed to settlemint/bpaas-enteth
+10. 🔥 Pushed to settlemint/bpaas-enteth
 <!--END_SECTION:activity-->
