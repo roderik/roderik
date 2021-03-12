@@ -28,8 +28,8 @@
 3. 🔥 Pushed to settlemint/bpaas-enteth
 4. 🔥 Pushed to settlemint/bpaas-enteth
 5. 🔥 Pushed to settlemint/bpaas-enteth
-6. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-7. 🔥 Pushed to settlemint/bpaas-enteth
+6. 🔥 Pushed to settlemint/bpaas-enteth
+7. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 8. 🔥 Pushed to settlemint/bpaas-enteth
 9. 🔥 Pushed to settlemint/bpaas-enteth
 10. 🔥 Pushed to settlemint/bpaas-enteth
