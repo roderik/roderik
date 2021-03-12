@@ -23,10 +23,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-2. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-3. 🔥 Pushed to settlemint/bpaas-enteth
-4. 🔥 Pushed to settlemint/bpaas-enteth
+1. ❗️ Opened issue [#4](https://github.com/settlemint/bolero-crowdfunding-poc/issues/4) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
+2. ❗️ Opened issue [#3](https://github.com/settlemint/bolero-crowdfunding-poc/issues/3) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
+3. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+4. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 5. 🔥 Pushed to settlemint/bpaas-enteth
 6. 🔥 Pushed to settlemint/bpaas-enteth
 7. 🔥 Pushed to settlemint/bpaas-enteth
