@@ -26,8 +26,8 @@
 1. 🔥 Pushed to settlemint/bpaas-enteth
 2. 🔥 Pushed to settlemint/bpaas-enteth
 3. 🔥 Pushed to settlemint/bpaas-enteth
-4. ❗️ Closed issue [#609](https://github.com/settlemint/bpaas-enteth/issues/609) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
-5. 🔥 Pushed to settlemint/bpaas-enteth
+4. 🔥 Pushed to settlemint/bpaas-enteth
+5. ❗️ Closed issue [#609](https://github.com/settlemint/bpaas-enteth/issues/609) in [settlemint/bpaas-enteth](https://github.com/settlemint/bpaas-enteth)
 6. 🔥 Pushed to settlemint/bpaas-enteth
 7. 🔥 Pushed to settlemint/bpaas-enteth
 8. 🔥 Pushed to settlemint/bpaas-enteth
