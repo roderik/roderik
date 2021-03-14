@@ -24,13 +24,13 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-2. ❌ Closed PR [#142](https://github.com/settlemint/scb-asset-tokenization-platform/pull/142) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
-3. ❌ Closed PR [#141](https://github.com/settlemint/scb-asset-tokenization-platform/pull/141) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
-4. ❌ Closed PR [#139](https://github.com/settlemint/scb-asset-tokenization-platform/pull/139) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
-5. ❌ Closed PR [#140](https://github.com/settlemint/scb-asset-tokenization-platform/pull/140) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
-6. ❌ Closed PR [#138](https://github.com/settlemint/scb-asset-tokenization-platform/pull/138) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
-7. ❌ Closed PR [#137](https://github.com/settlemint/scb-asset-tokenization-platform/pull/137) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
-8. ❌ Closed PR [#136](https://github.com/settlemint/scb-asset-tokenization-platform/pull/136) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
-9. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-10. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
+2. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
+3. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
+4. ❌ Closed PR [#142](https://github.com/settlemint/scb-asset-tokenization-platform/pull/142) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
+5. ❌ Closed PR [#141](https://github.com/settlemint/scb-asset-tokenization-platform/pull/141) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
+6. ❌ Closed PR [#139](https://github.com/settlemint/scb-asset-tokenization-platform/pull/139) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
+7. ❌ Closed PR [#140](https://github.com/settlemint/scb-asset-tokenization-platform/pull/140) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
+8. ❌ Closed PR [#138](https://github.com/settlemint/scb-asset-tokenization-platform/pull/138) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
+9. ❌ Closed PR [#137](https://github.com/settlemint/scb-asset-tokenization-platform/pull/137) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
+10. ❌ Closed PR [#136](https://github.com/settlemint/scb-asset-tokenization-platform/pull/136) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
 <!--END_SECTION:activity-->
