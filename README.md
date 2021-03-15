@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-enteth
-2. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-3. ❗️ Closed issue [#118](https://github.com/settlemint/scb-asset-tokenization-platform/issues/118) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
-4. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
+1. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
+2. 🔥 Pushed to settlemint/bpaas-enteth
+3. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+4. ❗️ Closed issue [#118](https://github.com/settlemint/scb-asset-tokenization-platform/issues/118) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
 5. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
 6. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
 7. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-8. ❌ Closed PR [#368](https://github.com/settlemint/bpaas-anchoring/pull/368) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
-9. ❌ Closed PR [#367](https://github.com/settlemint/bpaas-anchoring/pull/367) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
-10. ❌ Closed PR [#366](https://github.com/settlemint/bpaas-anchoring/pull/366) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
+8. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
+9. ❌ Closed PR [#368](https://github.com/settlemint/bpaas-anchoring/pull/368) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
+10. ❌ Closed PR [#367](https://github.com/settlemint/bpaas-anchoring/pull/367) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
 <!--END_SECTION:activity-->
