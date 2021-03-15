@@ -24,13 +24,13 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-2. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-3. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
-4. ❌ Closed PR [#142](https://github.com/settlemint/scb-asset-tokenization-platform/pull/142) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
-5. ❌ Closed PR [#141](https://github.com/settlemint/scb-asset-tokenization-platform/pull/141) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
-6. ❌ Closed PR [#139](https://github.com/settlemint/scb-asset-tokenization-platform/pull/139) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
-7. ❌ Closed PR [#140](https://github.com/settlemint/scb-asset-tokenization-platform/pull/140) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
-8. ❌ Closed PR [#138](https://github.com/settlemint/scb-asset-tokenization-platform/pull/138) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
-9. ❌ Closed PR [#137](https://github.com/settlemint/scb-asset-tokenization-platform/pull/137) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
-10. ❌ Closed PR [#136](https://github.com/settlemint/scb-asset-tokenization-platform/pull/136) in [settlemint/scb-asset-tokenization-platform](https://github.com/settlemint/scb-asset-tokenization-platform)
+2. ❌ Closed PR [#368](https://github.com/settlemint/bpaas-anchoring/pull/368) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
+3. ❌ Closed PR [#367](https://github.com/settlemint/bpaas-anchoring/pull/367) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
+4. ❌ Closed PR [#366](https://github.com/settlemint/bpaas-anchoring/pull/366) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
+5. ❌ Closed PR [#365](https://github.com/settlemint/bpaas-anchoring/pull/365) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
+6. ❌ Closed PR [#364](https://github.com/settlemint/bpaas-anchoring/pull/364) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
+7. ❌ Closed PR [#363](https://github.com/settlemint/bpaas-anchoring/pull/363) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
+8. ❌ Closed PR [#362](https://github.com/settlemint/bpaas-anchoring/pull/362) in [settlemint/bpaas-anchoring](https://github.com/settlemint/bpaas-anchoring)
+9. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
+10. 🔥 Pushed to settlemint/scb-asset-tokenization-platform
 <!--END_SECTION:activity-->
