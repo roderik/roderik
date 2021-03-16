@@ -24,13 +24,13 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-enteth
-2. 🔥 Pushed to settlemint/bpaas-enteth
-3. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-4. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+2. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+3. 🔥 Pushed to settlemint/bpaas-enteth
+4. 🔥 Pushed to settlemint/bpaas-enteth
 5. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 6. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-7. 🔥 Pushed to settlemint/bpaas-infra
-8. 🔥 Pushed to settlemint/bpaas-launchpad
+7. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+8. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 9. 🔥 Pushed to settlemint/bpaas-infra
 10. 🔥 Pushed to settlemint/bpaas-launchpad
 <!--END_SECTION:activity-->
