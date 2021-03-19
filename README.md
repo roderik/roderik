@@ -25,12 +25,12 @@
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/ewr
 2. 🔥 Pushed to settlemint/ewr
-3. 🔥 Pushed to settlemint/bpaas-launchpad
+3. 🔥 Pushed to settlemint/ewr
 4. 🔥 Pushed to settlemint/ewr
-5. 🔥 Pushed to settlemint/ewr
-6. 🔥 Pushed to settlemint/bpaas-launchpad
-7. 🔥 Pushed to settlemint/bpaas-launchpad
-8. 🗣 Commented on [#4020](https://github.com/settlemint/bpaas-launchpad/issues/4020) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+5. 🔥 Pushed to settlemint/bpaas-launchpad
+6. 🔥 Pushed to settlemint/ewr
+7. 🔥 Pushed to settlemint/ewr
+8. 🔥 Pushed to settlemint/bpaas-launchpad
 9. 🔥 Pushed to settlemint/bpaas-launchpad
-10. 🗣 Commented on [#3863](https://github.com/settlemint/bpaas-launchpad/issues/3863) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+10. 🗣 Commented on [#4020](https://github.com/settlemint/bpaas-launchpad/issues/4020) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 <!--END_SECTION:activity-->
