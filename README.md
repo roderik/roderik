@@ -31,6 +31,6 @@
 6. 🔥 Pushed to settlemint/ewr
 7. 🔥 Pushed to settlemint/ewr
 8. 🔥 Pushed to settlemint/ewr
-9. ❗️ Opened issue [#1](https://github.com/settlemint/ewr/issues/1) in [settlemint/ewr](https://github.com/settlemint/ewr)
+9. 🔥 Pushed to settlemint/ewr
 10. 🔥 Pushed to settlemint/ewr
 <!--END_SECTION:activity-->
