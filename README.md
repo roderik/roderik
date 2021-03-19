@@ -24,13 +24,13 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-2. 🔥 Pushed to settlemint/bpaas-containers
+2. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 3. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 4. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-5. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+5. 🔥 Pushed to settlemint/bpaas-containers
 6. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 7. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-8. ❗️ Closed issue [#1](https://github.com/settlemint/ewr/issues/1) in [settlemint/ewr](https://github.com/settlemint/ewr)
-9. 🔥 Pushed to settlemint/ewr
-10. 🔥 Pushed to settlemint/ewr
+8. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+9. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+10. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 <!--END_SECTION:activity-->
