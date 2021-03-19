@@ -23,12 +23,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3863](https://github.com/settlemint/bpaas-launchpad/issues/3863) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+1. 🗣 Commented on [#4020](https://github.com/settlemint/bpaas-launchpad/issues/4020) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 2. 🔥 Pushed to settlemint/bpaas-launchpad
-3. 🔥 Pushed to settlemint/bpaas-launchpad
-4. 🔥 Pushed to settlemint/bpaas-infra
+3. 🗣 Commented on [#3863](https://github.com/settlemint/bpaas-launchpad/issues/3863) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+4. 🔥 Pushed to settlemint/bpaas-launchpad
 5. 🔥 Pushed to settlemint/bpaas-launchpad
-6. 🔥 Pushed to settlemint/bpaas-launchpad
+6. 🔥 Pushed to settlemint/bpaas-infra
 7. 🔥 Pushed to settlemint/bpaas-launchpad
 8. 🔥 Pushed to settlemint/bpaas-launchpad
 9. 🔥 Pushed to settlemint/bpaas-launchpad
