@@ -23,13 +23,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+1. 🔥 Pushed to settlemint/bpaas-containers
 2. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 3. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 4. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-5. ❗️ Closed issue [#1](https://github.com/settlemint/ewr/issues/1) in [settlemint/ewr](https://github.com/settlemint/ewr)
-6. 🔥 Pushed to settlemint/ewr
-7. 🔥 Pushed to settlemint/ewr
+5. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+6. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+7. ❗️ Closed issue [#1](https://github.com/settlemint/ewr/issues/1) in [settlemint/ewr](https://github.com/settlemint/ewr)
 8. 🔥 Pushed to settlemint/ewr
 9. 🔥 Pushed to settlemint/ewr
 10. 🔥 Pushed to settlemint/ewr
