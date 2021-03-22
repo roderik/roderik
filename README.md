@@ -24,9 +24,9 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-2. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-3. 🗣 Commented on [#4868](https://github.com/pulumi/pulumi/issues/4868) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+2. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+3. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+4. 🗣 Commented on [#4868](https://github.com/pulumi/pulumi/issues/4868) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 5. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 6. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 7. 🔥 Pushed to settlemint/bpaas-launchpad-v3
