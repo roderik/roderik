@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-2. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+1. ❗️ Opened issue [#7](https://github.com/settlemint/bpaas-launchpad-v3/issues/7) in [settlemint/bpaas-launchpad-v3](https://github.com/settlemint/bpaas-launchpad-v3)
+2. ❗️ Opened issue [#6](https://github.com/settlemint/bpaas-launchpad-v3/issues/6) in [settlemint/bpaas-launchpad-v3](https://github.com/settlemint/bpaas-launchpad-v3)
 3. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-4. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+4. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 5. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 6. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-7. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-8. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-9. 🗣 Commented on [#4868](https://github.com/pulumi/pulumi/issues/4868) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+7. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+8. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+9. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 10. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 <!--END_SECTION:activity-->
