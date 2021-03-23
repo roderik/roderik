@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4038](https://github.com/settlemint/bpaas-launchpad/issues/4038) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-2. 🔥 Pushed to settlemint/bpaas-enteth
-3. 🔥 Pushed to settlemint/bpaas-enteth
-4. 🔥 Pushed to settlemint/bpaas-enteth
-5. 🔥 Pushed to settlemint/bpaas-enteth
-6. 🔥 Pushed to settlemint/bpaas-enteth
-7. 🔥 Pushed to settlemint/bpaas-enteth
-8. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-9. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-10. ❗️ Closed issue [#4](https://github.com/settlemint/bolero-crowdfunding-poc/issues/4) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
+1. 🔥 Pushed to settlemint/ewr
+2. ❗️ Opened issue [#6](https://github.com/settlemint/ewr/issues/6) in [settlemint/ewr](https://github.com/settlemint/ewr)
+3. ❗️ Opened issue [#5](https://github.com/settlemint/ewr/issues/5) in [settlemint/ewr](https://github.com/settlemint/ewr)
+4. ❗️ Opened issue [#4](https://github.com/settlemint/ewr/issues/4) in [settlemint/ewr](https://github.com/settlemint/ewr)
+5. ❗️ Opened issue [#3](https://github.com/settlemint/ewr/issues/3) in [settlemint/ewr](https://github.com/settlemint/ewr)
+6. ❗️ Opened issue [#2](https://github.com/settlemint/ewr/issues/2) in [settlemint/ewr](https://github.com/settlemint/ewr)
+7. ❗️ Opened issue [#4038](https://github.com/settlemint/bpaas-launchpad/issues/4038) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+8. 🔥 Pushed to settlemint/bpaas-enteth
+9. 🔥 Pushed to settlemint/bpaas-enteth
+10. 🔥 Pushed to settlemint/bpaas-enteth
 <!--END_SECTION:activity-->
