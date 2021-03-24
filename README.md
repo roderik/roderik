@@ -24,13 +24,13 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/simac-demo
-2. 🔥 Pushed to settlemint/bpaas-enteth
-3. 🔥 Pushed to settlemint/bpaas-enteth
-4. 🔥 Pushed to settlemint/bpaas-enteth
-5. 🔥 Pushed to settlemint/bpaas-enteth
+2. 🔥 Pushed to settlemint/simac-demo
+3. 🔥 Pushed to settlemint/simac-demo
+4. 🔥 Pushed to settlemint/simac-demo
+5. 🔥 Pushed to settlemint/simac-demo
 6. 🔥 Pushed to settlemint/bpaas-enteth
 7. 🔥 Pushed to settlemint/bpaas-enteth
 8. 🔥 Pushed to settlemint/bpaas-enteth
-9. 🗣 Commented on [#4047](https://github.com/settlemint/bpaas-launchpad/issues/4047) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-10. 🗣 Commented on [#8](https://github.com/settlemint/bpaas-launchpad-v3/issues/8) in [settlemint/bpaas-launchpad-v3](https://github.com/settlemint/bpaas-launchpad-v3)
+9. 🔥 Pushed to settlemint/bpaas-enteth
+10. 🔥 Pushed to settlemint/bpaas-enteth
 <!--END_SECTION:activity-->
