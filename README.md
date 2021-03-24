@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/ewr
-2. ❗️ Opened issue [#6](https://github.com/settlemint/ewr/issues/6) in [settlemint/ewr](https://github.com/settlemint/ewr)
-3. ❗️ Opened issue [#5](https://github.com/settlemint/ewr/issues/5) in [settlemint/ewr](https://github.com/settlemint/ewr)
-4. ❗️ Opened issue [#4](https://github.com/settlemint/ewr/issues/4) in [settlemint/ewr](https://github.com/settlemint/ewr)
-5. ❗️ Opened issue [#3](https://github.com/settlemint/ewr/issues/3) in [settlemint/ewr](https://github.com/settlemint/ewr)
-6. ❗️ Opened issue [#2](https://github.com/settlemint/ewr/issues/2) in [settlemint/ewr](https://github.com/settlemint/ewr)
-7. ❗️ Opened issue [#4038](https://github.com/settlemint/bpaas-launchpad/issues/4038) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-8. 🔥 Pushed to settlemint/bpaas-enteth
-9. 🔥 Pushed to settlemint/bpaas-enteth
-10. 🔥 Pushed to settlemint/bpaas-enteth
+1. ❌ Closed PR [#234](https://github.com/settlemint/bpaas-corda/pull/234) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
+2. ❌ Closed PR [#233](https://github.com/settlemint/bpaas-corda/pull/233) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
+3. ❌ Closed PR [#232](https://github.com/settlemint/bpaas-corda/pull/232) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
+4. ❌ Closed PR [#231](https://github.com/settlemint/bpaas-corda/pull/231) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
+5. ❌ Closed PR [#230](https://github.com/settlemint/bpaas-corda/pull/230) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
+6. ❌ Closed PR [#229](https://github.com/settlemint/bpaas-corda/pull/229) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
+7. 🔥 Pushed to settlemint/ewr
+8. ❗️ Opened issue [#6](https://github.com/settlemint/ewr/issues/6) in [settlemint/ewr](https://github.com/settlemint/ewr)
+9. ❗️ Opened issue [#5](https://github.com/settlemint/ewr/issues/5) in [settlemint/ewr](https://github.com/settlemint/ewr)
+10. ❗️ Opened issue [#4](https://github.com/settlemint/ewr/issues/4) in [settlemint/ewr](https://github.com/settlemint/ewr)
 <!--END_SECTION:activity-->
