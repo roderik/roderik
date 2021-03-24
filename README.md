@@ -28,9 +28,9 @@
 3. 🔥 Pushed to settlemint/bpaas-enteth
 4. 🔥 Pushed to settlemint/bpaas-enteth
 5. 🔥 Pushed to settlemint/bpaas-enteth
-6. 🗣 Commented on [#4047](https://github.com/settlemint/bpaas-launchpad/issues/4047) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-7. 🗣 Commented on [#8](https://github.com/settlemint/bpaas-launchpad-v3/issues/8) in [settlemint/bpaas-launchpad-v3](https://github.com/settlemint/bpaas-launchpad-v3)
-8. ❌ Closed PR [#234](https://github.com/settlemint/bpaas-corda/pull/234) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
-9. ❌ Closed PR [#233](https://github.com/settlemint/bpaas-corda/pull/233) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
-10. ❌ Closed PR [#232](https://github.com/settlemint/bpaas-corda/pull/232) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
+6. 🔥 Pushed to settlemint/bpaas-enteth
+7. 🗣 Commented on [#4047](https://github.com/settlemint/bpaas-launchpad/issues/4047) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+8. 🗣 Commented on [#8](https://github.com/settlemint/bpaas-launchpad-v3/issues/8) in [settlemint/bpaas-launchpad-v3](https://github.com/settlemint/bpaas-launchpad-v3)
+9. ❌ Closed PR [#234](https://github.com/settlemint/bpaas-corda/pull/234) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
+10. ❌ Closed PR [#233](https://github.com/settlemint/bpaas-corda/pull/233) in [settlemint/bpaas-corda](https://github.com/settlemint/bpaas-corda)
 <!--END_SECTION:activity-->
