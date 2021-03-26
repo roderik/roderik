@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-2. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-3. 🔥 Pushed to settlemint/bpaas-enteth
-4. 🔥 Pushed to settlemint/bpaas-enteth
-5. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-6. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-7. 🔥 Pushed to settlemint/bpaas-enteth
-8. 🔥 Pushed to settlemint/bpaas-enteth
-9. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-10. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+1. 🔥 Pushed to settlemint/simac-demo
+2. 🎉 Merged PR [#37](https://github.com/settlemint/simac-demo/pull/37) in [settlemint/simac-demo](https://github.com/settlemint/simac-demo)
+3. 🔥 Pushed to settlemint/simac-demo
+4. 🎉 Merged PR [#36](https://github.com/settlemint/simac-demo/pull/36) in [settlemint/simac-demo](https://github.com/settlemint/simac-demo)
+5. 🔥 Pushed to settlemint/simac-demo
+6. 🎉 Merged PR [#35](https://github.com/settlemint/simac-demo/pull/35) in [settlemint/simac-demo](https://github.com/settlemint/simac-demo)
+7. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+8. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+9. 🔥 Pushed to settlemint/bpaas-enteth
+10. 🔥 Pushed to settlemint/bpaas-enteth
 <!--END_SECTION:activity-->
