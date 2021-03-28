@@ -26,11 +26,11 @@
 1. 🔥 Pushed to settlemint/ewr
 2. 🔥 Pushed to settlemint/ewr
 3. 🔥 Pushed to settlemint/ewr
-4. ❗️ Opened issue [#8](https://github.com/settlemint/ewr/issues/8) in [settlemint/ewr](https://github.com/settlemint/ewr)
-5. ❗️ Closed issue [#6](https://github.com/settlemint/ewr/issues/6) in [settlemint/ewr](https://github.com/settlemint/ewr)
-6. ❗️ Closed issue [#3](https://github.com/settlemint/ewr/issues/3) in [settlemint/ewr](https://github.com/settlemint/ewr)
-7. ❗️ Closed issue [#5](https://github.com/settlemint/ewr/issues/5) in [settlemint/ewr](https://github.com/settlemint/ewr)
-8. ❗️ Closed issue [#4](https://github.com/settlemint/ewr/issues/4) in [settlemint/ewr](https://github.com/settlemint/ewr)
-9. ❗️ Closed issue [#2](https://github.com/settlemint/ewr/issues/2) in [settlemint/ewr](https://github.com/settlemint/ewr)
-10. 🔥 Pushed to settlemint/ewr
+4. 🔥 Pushed to settlemint/ewr
+5. 🔥 Pushed to settlemint/ewr
+6. 🔥 Pushed to settlemint/ewr
+7. 🔥 Pushed to settlemint/ewr
+8. 🔥 Pushed to settlemint/ewr
+9. ❗️ Opened issue [#8](https://github.com/settlemint/ewr/issues/8) in [settlemint/ewr](https://github.com/settlemint/ewr)
+10. ❗️ Closed issue [#6](https://github.com/settlemint/ewr/issues/6) in [settlemint/ewr](https://github.com/settlemint/ewr)
 <!--END_SECTION:activity-->
