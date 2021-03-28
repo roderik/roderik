@@ -24,13 +24,13 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/ewr
-2. 🔥 Pushed to settlemint/simac-demo
-3. 🎉 Merged PR [#37](https://github.com/settlemint/simac-demo/pull/37) in [settlemint/simac-demo](https://github.com/settlemint/simac-demo)
-4. 🔥 Pushed to settlemint/simac-demo
-5. 🎉 Merged PR [#36](https://github.com/settlemint/simac-demo/pull/36) in [settlemint/simac-demo](https://github.com/settlemint/simac-demo)
-6. 🔥 Pushed to settlemint/simac-demo
-7. 🎉 Merged PR [#35](https://github.com/settlemint/simac-demo/pull/35) in [settlemint/simac-demo](https://github.com/settlemint/simac-demo)
-8. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
+2. 🔥 Pushed to settlemint/ewr
+3. 🔥 Pushed to settlemint/simac-demo
+4. 🎉 Merged PR [#37](https://github.com/settlemint/simac-demo/pull/37) in [settlemint/simac-demo](https://github.com/settlemint/simac-demo)
+5. 🔥 Pushed to settlemint/simac-demo
+6. 🎉 Merged PR [#36](https://github.com/settlemint/simac-demo/pull/36) in [settlemint/simac-demo](https://github.com/settlemint/simac-demo)
+7. 🔥 Pushed to settlemint/simac-demo
+8. 🎉 Merged PR [#35](https://github.com/settlemint/simac-demo/pull/35) in [settlemint/simac-demo](https://github.com/settlemint/simac-demo)
 9. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-10. 🔥 Pushed to settlemint/bpaas-enteth
+10. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 <!--END_SECTION:activity-->
