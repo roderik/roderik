@@ -27,10 +27,10 @@
 2. 🔥 Pushed to settlemint/ewr
 3. 🔥 Pushed to settlemint/ewr
 4. 🔥 Pushed to settlemint/ewr
-5. 🔥 Pushed to settlemint/bpaas-launchpad
+5. 🔥 Pushed to settlemint/ewr
 6. 🔥 Pushed to settlemint/ewr
-7. 🔥 Pushed to settlemint/ewr
+7. 🔥 Pushed to settlemint/bpaas-launchpad
 8. 🔥 Pushed to settlemint/ewr
-9. 🔥 Pushed to settlemint/bpaas-launchpad
-10. 🔥 Pushed to settlemint/bpaas-launchpad
+9. 🔥 Pushed to settlemint/ewr
+10. 🔥 Pushed to settlemint/ewr
 <!--END_SECTION:activity-->
