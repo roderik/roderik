@@ -23,7 +23,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/ewr
+1. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 2. 🔥 Pushed to settlemint/ewr
 3. 🔥 Pushed to settlemint/ewr
 4. 🔥 Pushed to settlemint/ewr
