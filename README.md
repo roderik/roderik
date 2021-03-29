@@ -29,7 +29,7 @@
 4. 🔥 Pushed to settlemint/ewr
 5. 🔥 Pushed to settlemint/ewr
 6. 🔥 Pushed to settlemint/ewr
-7. 🔥 Pushed to settlemint/bpaas-launchpad
+7. 🔥 Pushed to settlemint/ewr
 8. 🔥 Pushed to settlemint/ewr
 9. 🔥 Pushed to settlemint/ewr
 10. 🔥 Pushed to settlemint/ewr
