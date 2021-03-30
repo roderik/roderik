@@ -29,8 +29,8 @@
 4. 🔥 Pushed to settlemint/bpaas-launchpad
 5. 🔥 Pushed to settlemint/bpaas-launchpad
 6. 🔥 Pushed to settlemint/bpaas-launchpad
-7. 💪 Opened PR [#4083](https://github.com/settlemint/bpaas-launchpad/pull/4083) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-8. 🗣 Commented on [#8](https://github.com/settlemint/ewr/issues/8) in [settlemint/ewr](https://github.com/settlemint/ewr)
-9. 🔥 Pushed to settlemint/ewr
+7. 🔥 Pushed to settlemint/bpaas-launchpad
+8. 💪 Opened PR [#4083](https://github.com/settlemint/bpaas-launchpad/pull/4083) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+9. 🗣 Commented on [#8](https://github.com/settlemint/ewr/issues/8) in [settlemint/ewr](https://github.com/settlemint/ewr)
 10. 🔥 Pushed to settlemint/ewr
 <!--END_SECTION:activity-->
