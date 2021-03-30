@@ -23,10 +23,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4080](https://github.com/settlemint/bpaas-launchpad/issues/4080) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-2. 🗣 Commented on [#4033](https://github.com/settlemint/bpaas-launchpad/issues/4033) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-3. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-4. 🔥 Pushed to settlemint/ewr
+1. 🔥 Pushed to settlemint/bpaas-launchpad
+2. ❗️ Opened issue [#4080](https://github.com/settlemint/bpaas-launchpad/issues/4080) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+3. 🗣 Commented on [#4033](https://github.com/settlemint/bpaas-launchpad/issues/4033) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+4. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 5. 🔥 Pushed to settlemint/ewr
 6. 🔥 Pushed to settlemint/ewr
 7. 🔥 Pushed to settlemint/ewr
