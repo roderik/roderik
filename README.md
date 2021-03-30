@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-launchpad
-2. 💪 Opened PR [#4081](https://github.com/settlemint/bpaas-launchpad/pull/4081) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-3. 🔥 Pushed to settlemint/bpaas-launchpad
-4. ❗️ Opened issue [#4080](https://github.com/settlemint/bpaas-launchpad/issues/4080) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-5. 🗣 Commented on [#4033](https://github.com/settlemint/bpaas-launchpad/issues/4033) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-6. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-7. 🔥 Pushed to settlemint/ewr
-8. 🔥 Pushed to settlemint/ewr
-9. 🔥 Pushed to settlemint/ewr
+1. 🗣 Commented on [#8](https://github.com/settlemint/ewr/issues/8) in [settlemint/ewr](https://github.com/settlemint/ewr)
+2. 🔥 Pushed to settlemint/ewr
+3. 🔥 Pushed to settlemint/ewr
+4. 🔥 Pushed to settlemint/bpaas-launchpad
+5. 💪 Opened PR [#4081](https://github.com/settlemint/bpaas-launchpad/pull/4081) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+6. 🔥 Pushed to settlemint/bpaas-launchpad
+7. ❗️ Opened issue [#4080](https://github.com/settlemint/bpaas-launchpad/issues/4080) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+8. 🗣 Commented on [#4033](https://github.com/settlemint/bpaas-launchpad/issues/4033) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+9. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 10. 🔥 Pushed to settlemint/ewr
 <!--END_SECTION:activity-->
