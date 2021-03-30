@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-launchpad
-2. ❗️ Opened issue [#4080](https://github.com/settlemint/bpaas-launchpad/issues/4080) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-3. 🗣 Commented on [#4033](https://github.com/settlemint/bpaas-launchpad/issues/4033) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-4. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-5. 🔥 Pushed to settlemint/ewr
-6. 🔥 Pushed to settlemint/ewr
+2. 💪 Opened PR [#4081](https://github.com/settlemint/bpaas-launchpad/pull/4081) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+3. 🔥 Pushed to settlemint/bpaas-launchpad
+4. ❗️ Opened issue [#4080](https://github.com/settlemint/bpaas-launchpad/issues/4080) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+5. 🗣 Commented on [#4033](https://github.com/settlemint/bpaas-launchpad/issues/4033) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+6. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 7. 🔥 Pushed to settlemint/ewr
 8. 🔥 Pushed to settlemint/ewr
 9. 🔥 Pushed to settlemint/ewr
