@@ -25,8 +25,8 @@
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-launchpad
 2. 🔥 Pushed to settlemint/bpaas-launchpad
-3. 🗣 Commented on [#22](https://github.com/mikro-orm/nestjs/issues/22) in [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs)
-4. 🔥 Pushed to settlemint/bpaas-launchpad
+3. 🔥 Pushed to settlemint/bpaas-launchpad
+4. 🗣 Commented on [#22](https://github.com/mikro-orm/nestjs/issues/22) in [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs)
 5. 🔥 Pushed to settlemint/bpaas-launchpad
 6. 🔥 Pushed to settlemint/bpaas-launchpad
 7. 🔥 Pushed to settlemint/bpaas-launchpad
