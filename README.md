@@ -25,12 +25,12 @@
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-launchpad
 2. 🔥 Pushed to settlemint/bpaas-launchpad
-3. ❌ Closed PR [#4077](https://github.com/settlemint/bpaas-launchpad/pull/4077) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-4. ❌ Closed PR [#4099](https://github.com/settlemint/bpaas-launchpad/pull/4099) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-5. 🔥 Pushed to settlemint/bpaas-launchpad
+3. 🔥 Pushed to settlemint/bpaas-launchpad
+4. ❌ Closed PR [#4077](https://github.com/settlemint/bpaas-launchpad/pull/4077) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+5. ❌ Closed PR [#4099](https://github.com/settlemint/bpaas-launchpad/pull/4099) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 6. 🔥 Pushed to settlemint/bpaas-launchpad
 7. 🔥 Pushed to settlemint/bpaas-launchpad
 8. 🔥 Pushed to settlemint/bpaas-launchpad
-9. 🗣 Commented on [#1637](https://github.com/mikro-orm/mikro-orm/issues/1637) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-10. 🔥 Pushed to roderik/mikro-orm
+9. 🔥 Pushed to settlemint/bpaas-launchpad
+10. 🗣 Commented on [#1637](https://github.com/mikro-orm/mikro-orm/issues/1637) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
 <!--END_SECTION:activity-->
