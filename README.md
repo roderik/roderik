@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4038](https://github.com/settlemint/bpaas-launchpad/issues/4038) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-2. ❗️ Opened issue [#4106](https://github.com/settlemint/bpaas-launchpad/issues/4106) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-3. 🗣 Commented on [#4038](https://github.com/settlemint/bpaas-launchpad/issues/4038) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-4. 🔥 Pushed to settlemint/bpaas-enteth
+1. 🗣 Commented on [#17](https://github.com/settlemint/bpaas-launchpad-v3/issues/17) in [settlemint/bpaas-launchpad-v3](https://github.com/settlemint/bpaas-launchpad-v3)
+2. 🗣 Commented on [#4038](https://github.com/settlemint/bpaas-launchpad/issues/4038) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+3. ❗️ Opened issue [#4106](https://github.com/settlemint/bpaas-launchpad/issues/4106) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+4. 🗣 Commented on [#4038](https://github.com/settlemint/bpaas-launchpad/issues/4038) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 5. 🔥 Pushed to settlemint/bpaas-enteth
 6. 🔥 Pushed to settlemint/bpaas-enteth
-7. 🔥 Pushed to settlemint/bpaas-launchpad
-8. 🗣 Commented on [#4101](https://github.com/settlemint/bpaas-launchpad/issues/4101) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-9. 🔥 Pushed to settlemint/bpaas-launchpad
-10. 🎉 Merged PR [#4101](https://github.com/settlemint/bpaas-launchpad/pull/4101) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+7. 🔥 Pushed to settlemint/bpaas-enteth
+8. 🔥 Pushed to settlemint/bpaas-launchpad
+9. 🗣 Commented on [#4101](https://github.com/settlemint/bpaas-launchpad/issues/4101) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+10. 🔥 Pushed to settlemint/bpaas-launchpad
 <!--END_SECTION:activity-->
