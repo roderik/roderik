@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-launchpad
+1. ❗️ Opened issue [#1480](https://github.com/nestjs/graphql/issues/1480) in [nestjs/graphql](https://github.com/nestjs/graphql)
 2. 🔥 Pushed to settlemint/bpaas-launchpad
 3. 🔥 Pushed to settlemint/bpaas-launchpad
 4. 🔥 Pushed to settlemint/bpaas-launchpad
-5. 💪 Opened PR [#4115](https://github.com/settlemint/bpaas-launchpad/pull/4115) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-6. 🔥 Pushed to settlemint/bpaas-launchpad
-7. 🗣 Commented on [#17](https://github.com/settlemint/bpaas-launchpad-v3/issues/17) in [settlemint/bpaas-launchpad-v3](https://github.com/settlemint/bpaas-launchpad-v3)
-8. 🗣 Commented on [#4038](https://github.com/settlemint/bpaas-launchpad/issues/4038) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-9. ❗️ Opened issue [#4106](https://github.com/settlemint/bpaas-launchpad/issues/4106) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-10. 🗣 Commented on [#4038](https://github.com/settlemint/bpaas-launchpad/issues/4038) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+5. 🔥 Pushed to settlemint/bpaas-launchpad
+6. 💪 Opened PR [#4115](https://github.com/settlemint/bpaas-launchpad/pull/4115) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+7. 🔥 Pushed to settlemint/bpaas-launchpad
+8. 🗣 Commented on [#17](https://github.com/settlemint/bpaas-launchpad-v3/issues/17) in [settlemint/bpaas-launchpad-v3](https://github.com/settlemint/bpaas-launchpad-v3)
+9. 🗣 Commented on [#4038](https://github.com/settlemint/bpaas-launchpad/issues/4038) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+10. ❗️ Opened issue [#4106](https://github.com/settlemint/bpaas-launchpad/issues/4106) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 <!--END_SECTION:activity-->
