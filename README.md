@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-launchpad
+1. 🗣 Commented on [#4020](https://github.com/settlemint/bpaas-launchpad/issues/4020) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 2. 🔥 Pushed to settlemint/bpaas-launchpad
-3. ❗️ Closed issue [#4088](https://github.com/settlemint/bpaas-launchpad/issues/4088) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-4. ❗️ Closed issue [#4089](https://github.com/settlemint/bpaas-launchpad/issues/4089) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-5. 🔥 Pushed to settlemint/bpaas-launchpad
-6. 🔥 Pushed to settlemint/bpaas-launchpad
+3. 🔥 Pushed to settlemint/bpaas-launchpad
+4. 🔥 Pushed to settlemint/bpaas-launchpad
+5. ❗️ Closed issue [#4088](https://github.com/settlemint/bpaas-launchpad/issues/4088) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+6. ❗️ Closed issue [#4089](https://github.com/settlemint/bpaas-launchpad/issues/4089) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 7. 🔥 Pushed to settlemint/bpaas-launchpad
 8. 🔥 Pushed to settlemint/bpaas-launchpad
 9. 🔥 Pushed to settlemint/bpaas-launchpad
-10. 🗣 Commented on [#1692](https://github.com/roboll/helmfile/issues/1692) in [roboll/helmfile](https://github.com/roboll/helmfile)
+10. 🔥 Pushed to settlemint/bpaas-launchpad
 <!--END_SECTION:activity-->
