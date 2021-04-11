@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-enteth
-2. 🔥 Pushed to settlemint/bpaas-launchpad
+1. ❗️ Opened issue [#4128](https://github.com/settlemint/bpaas-launchpad/issues/4128) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+2. 🔥 Pushed to settlemint/bpaas-enteth
 3. 🔥 Pushed to settlemint/bpaas-launchpad
-4. 🔥 Pushed to settlemint/bpaas-containers
-5. 🗣 Commented on [#6745](https://github.com/pulumi/pulumi/issues/6745) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-6. ❗️ Opened issue [#6745](https://github.com/pulumi/pulumi/issues/6745) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-7. 🔥 Pushed to settlemint/bpaas-launchpad
-8. 🎉 Merged PR [#4115](https://github.com/settlemint/bpaas-launchpad/pull/4115) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-9. 🔥 Pushed to settlemint/bpaas-launchpad
+4. 🔥 Pushed to settlemint/bpaas-launchpad
+5. 🔥 Pushed to settlemint/bpaas-containers
+6. 🗣 Commented on [#6745](https://github.com/pulumi/pulumi/issues/6745) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+7. ❗️ Opened issue [#6745](https://github.com/pulumi/pulumi/issues/6745) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+8. 🔥 Pushed to settlemint/bpaas-launchpad
+9. 🎉 Merged PR [#4115](https://github.com/settlemint/bpaas-launchpad/pull/4115) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 10. 🔥 Pushed to settlemint/bpaas-launchpad
 <!--END_SECTION:activity-->
