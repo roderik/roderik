@@ -24,13 +24,13 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-launchpad
-2. 🔥 Pushed to settlemint/bpaas-enteth
-3. 🔥 Pushed to settlemint/bpaas-containers
-4. ❗️ Opened issue [#4128](https://github.com/settlemint/bpaas-launchpad/issues/4128) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-5. 🔥 Pushed to settlemint/bpaas-enteth
-6. 🔥 Pushed to settlemint/bpaas-launchpad
-7. 🔥 Pushed to settlemint/bpaas-launchpad
-8. 🔥 Pushed to settlemint/bpaas-containers
-9. 🗣 Commented on [#6745](https://github.com/pulumi/pulumi/issues/6745) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-10. ❗️ Opened issue [#6745](https://github.com/pulumi/pulumi/issues/6745) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. 🔥 Pushed to settlemint/bpaas-containers
+3. 🔥 Pushed to settlemint/bpaas-launchpad
+4. 🔥 Pushed to settlemint/bpaas-enteth
+5. 🔥 Pushed to settlemint/bpaas-containers
+6. ❗️ Opened issue [#4128](https://github.com/settlemint/bpaas-launchpad/issues/4128) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+7. 🔥 Pushed to settlemint/bpaas-enteth
+8. 🔥 Pushed to settlemint/bpaas-launchpad
+9. 🔥 Pushed to settlemint/bpaas-launchpad
+10. 🔥 Pushed to settlemint/bpaas-containers
 <!--END_SECTION:activity-->
