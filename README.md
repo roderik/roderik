@@ -25,12 +25,12 @@
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-infra
 2. 🔥 Pushed to settlemint/bpaas-infra
-3. 🔥 Pushed to settlemint/bpaas-launchpad
-4. 🔥 Pushed to settlemint/bpaas-containers
+3. 🔥 Pushed to settlemint/bpaas-infra
+4. 🔥 Pushed to settlemint/bpaas-infra
 5. 🔥 Pushed to settlemint/bpaas-launchpad
-6. 🔥 Pushed to settlemint/bpaas-enteth
-7. 🔥 Pushed to settlemint/bpaas-containers
-8. ❗️ Opened issue [#4128](https://github.com/settlemint/bpaas-launchpad/issues/4128) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-9. 🔥 Pushed to settlemint/bpaas-enteth
-10. 🔥 Pushed to settlemint/bpaas-launchpad
+6. 🔥 Pushed to settlemint/bpaas-containers
+7. 🔥 Pushed to settlemint/bpaas-launchpad
+8. 🔥 Pushed to settlemint/bpaas-enteth
+9. 🔥 Pushed to settlemint/bpaas-containers
+10. ❗️ Opened issue [#4128](https://github.com/settlemint/bpaas-launchpad/issues/4128) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 <!--END_SECTION:activity-->
