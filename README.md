@@ -26,11 +26,11 @@
 1. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 2. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 3. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
-4. 🔥 Pushed to settlemint/bpaas-infra
+4. 🔥 Pushed to settlemint/bolero-crowdfunding-poc
 5. 🔥 Pushed to settlemint/bpaas-infra
 6. 🔥 Pushed to settlemint/bpaas-infra
 7. 🔥 Pushed to settlemint/bpaas-infra
 8. 🔥 Pushed to settlemint/bpaas-infra
-9. 🔥 Pushed to settlemint/bpaas-launchpad
-10. 🔥 Pushed to settlemint/bpaas-infra
+9. 🔥 Pushed to settlemint/bpaas-infra
+10. 🔥 Pushed to settlemint/bpaas-launchpad
 <!--END_SECTION:activity-->
