@@ -27,10 +27,10 @@
 2. 🔥 Pushed to settlemint/bpaas-enteth
 3. 🔥 Pushed to settlemint/bpaas-enteth
 4. 🔥 Pushed to settlemint/bpaas-enteth
-5. 🗣 Commented on [#6](https://github.com/settlemint/bolero-crowdfunding-poc/issues/6) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
-6. ❗️ Opened issue [#6](https://github.com/settlemint/bolero-crowdfunding-poc/issues/6) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
+5. 🔥 Pushed to settlemint/bpaas-enteth
+6. 🔥 Pushed to settlemint/bpaas-enteth
 7. 🔥 Pushed to settlemint/bpaas-enteth
 8. 🔥 Pushed to settlemint/bpaas-enteth
-9. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-10. 🎉 Merged PR [#21](https://github.com/settlemint/bpaas-launchpad-v3/pull/21) in [settlemint/bpaas-launchpad-v3](https://github.com/settlemint/bpaas-launchpad-v3)
+9. 🔥 Pushed to settlemint/bpaas-enteth
+10. 🗣 Commented on [#6](https://github.com/settlemint/bolero-crowdfunding-poc/issues/6) in [settlemint/bolero-crowdfunding-poc](https://github.com/settlemint/bolero-crowdfunding-poc)
 <!--END_SECTION:activity-->
