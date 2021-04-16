@@ -26,10 +26,10 @@
 1. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 2. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 3. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-4. ❗️ Closed issue [#7](https://github.com/settlemint/bpaas-launchpad-v3/issues/7) in [settlemint/bpaas-launchpad-v3](https://github.com/settlemint/bpaas-launchpad-v3)
-5. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-6. 🎉 Merged PR [#24](https://github.com/settlemint/bpaas-launchpad-v3/pull/24) in [settlemint/bpaas-launchpad-v3](https://github.com/settlemint/bpaas-launchpad-v3)
-7. 🔥 Pushed to settlemint/bpaas-enteth
+4. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+5. ❗️ Closed issue [#7](https://github.com/settlemint/bpaas-launchpad-v3/issues/7) in [settlemint/bpaas-launchpad-v3](https://github.com/settlemint/bpaas-launchpad-v3)
+6. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+7. 🎉 Merged PR [#24](https://github.com/settlemint/bpaas-launchpad-v3/pull/24) in [settlemint/bpaas-launchpad-v3](https://github.com/settlemint/bpaas-launchpad-v3)
 8. 🔥 Pushed to settlemint/bpaas-enteth
 9. 🔥 Pushed to settlemint/bpaas-enteth
 10. 🔥 Pushed to settlemint/bpaas-enteth
