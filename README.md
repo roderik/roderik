@@ -27,10 +27,10 @@
 2. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 3. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 4. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-5. 🔥 Pushed to settlemint/bpaas-infra
-6. 🔥 Pushed to settlemint/bpaas-containers
-7. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+5. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+6. 🔥 Pushed to settlemint/bpaas-infra
+7. 🔥 Pushed to settlemint/bpaas-containers
 8. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-9. 🔥 Pushed to settlemint/bpaas-infra
-10. 🔥 Pushed to settlemint/bpaas-launchpad
+9. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+10. 🔥 Pushed to settlemint/bpaas-infra
 <!--END_SECTION:activity-->
