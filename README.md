@@ -23,10 +23,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-2. 🔥 Pushed to settlemint/bpaas-containers
+1. 🔥 Pushed to settlemint/bpaas-launchpad
+2. 🎉 Merged PR [#4178](https://github.com/settlemint/bpaas-launchpad/pull/4178) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 3. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-4. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+4. 🔥 Pushed to settlemint/bpaas-containers
 5. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 6. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 7. 🔥 Pushed to settlemint/bpaas-launchpad-v3
