@@ -25,7 +25,7 @@
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 2. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-3. 🔥 Pushed to settlemint/bpaas-infra
+3. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 4. 🔥 Pushed to settlemint/bpaas-infra
 5. 🔥 Pushed to settlemint/bpaas-infra
 6. 🔥 Pushed to settlemint/bpaas-infra
