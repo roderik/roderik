@@ -23,14 +23,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=roderik&show_icons=true&count_private=true" alt="roderik" align="right" height="190" />
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to settlemint/bpaas-launchpad
-2. 🔥 Pushed to settlemint/bpaas-enteth
-3. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+1. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+2. 🔥 Pushed to settlemint/bpaas-launchpad
+3. 🔥 Pushed to settlemint/bpaas-enteth
 4. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 5. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-6. 🔥 Pushed to settlemint/bpaas-enteth
-7. 🗣 Commented on [#4138](https://github.com/settlemint/bpaas-launchpad/issues/4138) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-8. 🔥 Pushed to settlemint/bpaas-launchpad
-9. 🎉 Merged PR [#4137](https://github.com/settlemint/bpaas-launchpad/pull/4137) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
-10. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+6. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+7. 🔥 Pushed to settlemint/bpaas-enteth
+8. 🗣 Commented on [#4138](https://github.com/settlemint/bpaas-launchpad/issues/4138) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
+9. 🔥 Pushed to settlemint/bpaas-launchpad
+10. 🎉 Merged PR [#4137](https://github.com/settlemint/bpaas-launchpad/pull/4137) in [settlemint/bpaas-launchpad](https://github.com/settlemint/bpaas-launchpad)
 <!--END_SECTION:activity-->
