@@ -29,8 +29,8 @@
 4. 🔥 Pushed to settlemint/bpaas-launchpad
 5. 🔥 Pushed to settlemint/bpaas-launchpad
 6. 🔥 Pushed to settlemint/bpaas-launchpad
-7. 🔥 Pushed to settlemint/bpaas-launchpad-v3
-8. 🔥 Pushed to settlemint/bpaas-infra
-9. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+7. 🔥 Pushed to settlemint/bpaas-launchpad
+8. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+9. 🔥 Pushed to settlemint/bpaas-infra
 10. 🔥 Pushed to settlemint/bpaas-launchpad-v3
 <!--END_SECTION:activity-->
