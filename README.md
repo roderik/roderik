@@ -24,13 +24,13 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to settlemint/identimint
-2. 🔥 Pushed to settlemint/identimint
-3. ❌ Closed PR [#418](https://github.com/settlemint/identimint/pull/418) in [settlemint/identimint](https://github.com/settlemint/identimint)
-4. ❌ Closed PR [#413](https://github.com/settlemint/identimint/pull/413) in [settlemint/identimint](https://github.com/settlemint/identimint)
-5. ❌ Closed PR [#412](https://github.com/settlemint/identimint/pull/412) in [settlemint/identimint](https://github.com/settlemint/identimint)
-6. ❌ Closed PR [#562](https://github.com/settlemint/identimint/pull/562) in [settlemint/identimint](https://github.com/settlemint/identimint)
-7. ❌ Closed PR [#561](https://github.com/settlemint/identimint/pull/561) in [settlemint/identimint](https://github.com/settlemint/identimint)
-8. ❌ Closed PR [#491](https://github.com/settlemint/identimint/pull/491) in [settlemint/identimint](https://github.com/settlemint/identimint)
-9. ❌ Closed PR [#489](https://github.com/settlemint/identimint/pull/489) in [settlemint/identimint](https://github.com/settlemint/identimint)
-10. ❌ Closed PR [#488](https://github.com/settlemint/identimint/pull/488) in [settlemint/identimint](https://github.com/settlemint/identimint)
+2. 🔥 Pushed to settlemint/bpaas-launchpad-v3
+3. 🔥 Pushed to settlemint/bpaas-infra
+4. 🔥 Pushed to settlemint/identimint
+5. 🔥 Pushed to settlemint/identimint
+6. ❌ Closed PR [#418](https://github.com/settlemint/identimint/pull/418) in [settlemint/identimint](https://github.com/settlemint/identimint)
+7. ❌ Closed PR [#413](https://github.com/settlemint/identimint/pull/413) in [settlemint/identimint](https://github.com/settlemint/identimint)
+8. ❌ Closed PR [#412](https://github.com/settlemint/identimint/pull/412) in [settlemint/identimint](https://github.com/settlemint/identimint)
+9. ❌ Closed PR [#562](https://github.com/settlemint/identimint/pull/562) in [settlemint/identimint](https://github.com/settlemint/identimint)
+10. ❌ Closed PR [#561](https://github.com/settlemint/identimint/pull/561) in [settlemint/identimint](https://github.com/settlemint/identimint)
 <!--END_SECTION:activity-->
