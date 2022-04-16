@@ -7,14 +7,7 @@
 
 - 💬 Ask me about **blockchain, devops, typescript**
 
-- 📫 How to reach me **roderik@settlemint.com**
-
-
 
 ### Connect with me:
 
 - 🐦 https://twitter.com/r0derik
-- 🏢 https://linkedin.com/in/roderik
-- 📚 https://stackoverflow.com/users/278584
-- 🙊 https://fb.com/roderik.van.der.veer
-- 📸 https://instagram.com/roderik
