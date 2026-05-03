@@ -3,9 +3,7 @@
 
 - 🔭 I’m the founder and CTO of SettleMint and I'm working on [SettleMint](https://settlemint.com)
 
-- 💬 Ask me about **blockchain, devops, typescript**
-
-
 ### Connect with me:
 
-- 🐦 https://twitter.com/r0derik
+- https://twitter.com/roderik
+- https://www.linkedin.com/in/roderik/
